@@ -7,19 +7,21 @@
 
 Как установить:
 
-На очки с версией прошивки 1.03.0900 необходимо получить root доступ, используя DUMLRacer
+Скачать master.zip этого репозитория
 
-Далее скопировать файлы -
-- translation.de
-- translation.en
-- Monda-Bold.ttf
-- Monda-Regular.tt
-- russian.sh
+На очки с версией прошивки 1.03.0900 необходимо получить root доступ, используя DUMLRacer и установить adb
 
-в папку upgrade/upgrade/backup через FTP
+Далее зайти в консоль и выполнить команды:
 
-Затем зайти в консоль adb shell и выполнить две команды
+adb shell busybox mount -o remount,rw /system
 
-chmod 755 /data/upgrade/backup/russian.sh
+adb push Monda-Bold.ttf /system/fonts/Monda-Bold.ttf
 
-/data/upgrade/backup/russian.sh
+adb push Monda-Regular.ttf /system/fonts/Monda-Regular.ttf
+
+adb push translation.de /system/gui/lang/translation.de
+
+adb push translation.en /system/gui/lang/translation.en
+
+Перезагрузить очки и в настройках выбрать русский.
+Скриншот прилагается. Enjoy!
