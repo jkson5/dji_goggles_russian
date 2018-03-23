@@ -1,0 +1,668 @@
+msg_guide_language_selection===Язык
+msg_guide_language_chinese===中文(简体)
+msg_guide_language_traditional===中文(繁體)
+msg_guide_language_japanese===日本語
+msg_guide_language_korean===한국어
+msg_guide_language_german===Русский
+msg_guide_device_active===Активация компьютером:  \n1. Запустите DJI Assistant 2. \n2. Подключите DJI Goggles к компьютеру используя USB кабель.\n3. Перейдите на страницу активации DJI Assistant 2 и нажмите Activate. \n4. DJI Goggles готовы к использованию после активации. \n \nПользователи Mavic Pro также могут активировать DJI Goggles при помощи смартфона подключенного к пульту.
+msg_guide_reactive_glass===Активировать заново DJI Goggles
+msg_guide_device_active_success===DJI Goggles Активированы
+msg_guide_device_is_not_active===DJI Goggles не Активированы
+msg_guide_welcome===Добро пожаловать
+msg_guide_welcome_description===DJI Goggles поддерживают квадрокоптеры: \n\n * Mavic Pro\n * Phantom 4\n * Phantom 4 Pro\n * Inspire2
+msg_guide_terms_of_use===Соглашение об использовании
+msg_guide_terms_description1===Важно:\n Держитесь вдали от летательных средств и летайте ответственно. При полетах в режиме первого лица (FPV) в очках DJI Goggles, необходим наблюдатель для обеспечения безопасности.
+msg_guide_terms_agree===Я прочитал и согласен с условиями данного соглашения.
+msg_guide_pairing_single===Подключение одних очков
+msg_guide_pairing_double===Подключение двух очков
+msg_guide_pairing_prompt===Выберите подключение одних или двух DJI Goggles и пульта управления к Mavic Pro.  Если у Вас не Mavic Pro, выйдите из этого меню и подключите DJI Goggles к пульту управления через USB или HDMI кабель.
+msg_default_fpv_value===N/A
+msg_ctrl_mode===РЕЖИМ ПОЛЕТА
+msg_ctrl_mode_manual===Manual
+msg_ctrl_mode_atti===Atti
+msg_ctrl_mode_landing===Landing
+msg_ctrl_mode_takeoff===Takeoff
+msg_ctrl_mode_gohome===GoHome
+msg_ctrl_mode_joystick===Joystick
+msg_ctrl_mode_navi===Navi
+msg_ctrl_mode_clickgo===ClickGo
+msg_ctrl_mode_patti===P-Atti
+msg_ctrl_mode_popti===P-OPTI
+msg_ctrl_mode_pgps===P-GPS
+msg_ctrl_mode_fcl===F-CL
+msg_ctrl_mode_fhl===F-HL
+msg_ctrl_mode_pcl===P-CL
+msg_ctrl_mode_acl===A-CL
+msg_ctrl_mode_phl===P-HL
+msg_ctrl_mode_ffollow_me===F-FM
+msg_ctrl_mode_fpoi===F-POI
+msg_ctrl_mode_fway_point===F-WP
+msg_ctrl_mode_fexit===F-GPS
+msg_ctrl_mode_fopti===F-OPTI
+msg_ctrl_mode_sport===Sport
+msg_ctrl_mode_novice===Beginner
+msg_ctrl_mode_fatti===F-Atti
+msg_ctrl_mode_opti===OPTI
+msg_ctrl_mode_gps===GPS
+msg_ctrl_mode_cl===CL
+msg_ctrl_mode_hl===HL
+msg_ctrl_mode_follow_me===FM
+msg_ctrl_mode_poi===POI
+msg_ctrl_mode_way_point===WP
+msg_ctrl_mode_ftracking===ActiveTrack
+msg_ctrl_mode_fpointing===TapFly
+msg_ctrl_mode_fhover===GPS
+msg_ctrl_mode_fpv===FPV
+msg_ctrl_mode_somersault===Somersault
+msg_ctrl_mode_neo===NEO
+msg_ctrl_mode_navi_adv_gohome===Adv GoHome
+msg_ctrl_mode_navi_adv_landing===Adv Landing
+msg_ctrl_mode_navi_tripod_gps===Tripod
+msg_ctrl_mode_cinematic===Cinematic
+msg_ctrl_mode_watch_gps_atti_cl===Watch
+msg_ctrl_mode_search_mode===Search
+msg_ctrl_mode_engine_start===Motor Start
+msg_fpv_distance===ДИСТАНЦИЯ
+msg_fpv_height===ВЫСОТА
+msg_fpv_confirm===OK
+msg_fpv_cancel===Отмена
+msg_fpv_restart===Перезапуск
+msg_fpv_ok===OK
+msg_fpv_return===Назад
+msg_fpv_retry===Повторить
+msg_fpv_next===Дальше
+msg_fpv_back===Назад
+msg_fpv_waiting_be_activated===Ожидание активации
+msg_fpv_done===Выполнено
+msg_fpv_camera_basic_photo===ФОТО
+msg_fpv_camera_basic_video===ВИДЕО
+msg_fpv_camera_basic_exposure===ЭКСПОЗИЦИЯ
+msg_fpv_camera_auto===АВТО
+msg_fpv_camera_filter_none===Отключено
+msg_fpv_camera_filter_neutral===D-Log
+msg_fpv_camera_filter_art===Art
+msg_fpv_camera_filter_blackwhite===BW
+msg_fpv_camera_filter_colorful===Vivid
+msg_fpv_camera_filter_film===D-Cinelike
+msg_fpv_camera_filter_m31===Beach
+msg_fpv_camera_filter_kdx===Dream
+msg_fpv_camera_filter_prismo===Classic
+msg_fpv_camera_filter_jugo===Nostalgia
+msg_fpv_camera_photoformat===Формат изображения
+msg_fpv_camera_videoformat===Формат видео
+msg_fpv_camera_whitebalance===Баланс Белого
+msg_fpv_camera_antiblink===Антистроб
+msg_fpv_camera_picturesize===Соотношение сторон
+msg_fpv_camera_videoresolution===Размер кадра
+msg_fpv_camera_picture_style===Стиль
+msg_fpv_camera_filter===Цвет
+msg_fpv_camera_photo_mode===Режим съемки
+msg_fpv_camera_photomode_single===Одиночный
+msg_fpv_camera_photomode_hdr===HDR
+msg_fpv_camera_photomode_burst===Мультикадр
+msg_fpv_camera_photomode_aeb===AEB
+msg_fpv_camera_photomode_time===Таймер
+msg_fpv_camera_wb_auto===Авто
+msg_fpv_camera_wb_indoor===Облачно
+msg_fpv_camera_wb_outdoor===Солнечно
+msg_fpv_camera_wb_water===Вода
+msg_fpv_camera_wb_tungsten===Incandescent
+msg_fpv_camera_wb_neon===Неон
+msg_fpv_tip_disconnect===Нет подключения
+msg_fpv_tip_mc_sd_mode===Режим доступа к логам. Перезапустите для выхода.
+msg_fpv_tip_no_video_signal===Нет сигнала видео
+msg_fpv_tip_mc_error===Ошибка данных полетного контроллера
+msg_fpv_tip_imu_cali===Требуется калибровка IMU
+msg_fpv_tip_camera_encrypt_error===Ошибка камеры
+msg_fpv_tip_compass_error===Ошибка компаса. Переместите ЛА либо откалибруйте компас.
+msg_fpv_tip_esc_error_sky===Ошибка ESC. Возврат домой.
+msg_fpv_tip_esc_error===Ошибка ESC
+msg_fpv_tip_patti_error===Магнитные помехи. Выход из P-GPS режима.
+msg_fpv_tip_barometer_dead===Ошибка барометра. Посадка медленно.
+msg_fpv_tip_front_vision_cali===Ошибка калибровки передних оптодатчиков
+msg_fpv_tip_down_vision_cali===Ошибка калибровки нижних оптодатчиков
+msg_fpv_tip_vision_error===Ошибка визуальной системы
+msg_fpv_tip_battery_exception===Ошибка батареи. Проверьте пожалуйста.
+msg_fpv_tip_battery_broken===Ячейка батареи повреждена
+msg_fpv_tip_battery_over_current===Ток разряда превышен
+msg_fpv_tip_battery_over_temp===Перегрев батареи при разряде
+msg_fpv_tip_battery_low_temp===Переохлаждение при разряде
+msg_fpv_tip_imu_initializing===инициализация IMU
+msg_fpv_tip_sensor_error===Ошибка IMU. Перезапустите квадрокоптер.
+msg_fpv_tip_imu_error===Ошибка IMU. Откалибруйте IMU.
+msg_fpv_tip_imu_heating===Разогрев квадрокоптера
+msg_fpv_tip_cant_takeoff===Взлет невозможен
+msg_fpv_tip_cant_takeoff_novice===Взлет невозможен (Нет GPS)
+msg_fpv_tip_serious_low_voltage_landing===Критический разряд. Квадрокоптер приземляется.
+msg_fpv_tip_serious_low_voltage===Критический разряд батареи.
+msg_fpv_tip_serious_low_power_landing===Критический разряд. Квадрокоптер приземляется.
+msg_fpv_tip_serious_low_power===Критический разряд батареи.
+msg_fpv_tip_smart_low_power_landing===Батарея разряжена. Квадрокоптер приземляется.
+msg_fpv_tip_smart_low_power===Батарея разряжена.
+msg_fpv_tip_not_enough_force===Максимальная скорость двигателей
+msg_fpv_tip_firmware_no_match===Требуется обновление прошивки.
+msg_fpv_tip_gohome_failed===Сбой возврата домой. Удержание позиции.
+msg_fpv_tip_failsafe_gohome===Нет сигнала пульта. Возврат домой
+msg_fpv_tip_failsafe===Нет сигнала пульта
+msg_fpv_tip_low_power_gohome===Батарея разряжена. Возврат домой.
+msg_fpv_tip_low_power===Батарея разряжена.
+msg_fpv_tip_low_rc_power===Батарея пульта разряжена
+msg_fpv_tip_low_rc_signal===Слабый сигнал пульта. Настройте антенны.
+msg_fpv_tip_low_radio_signal===Слабый видео сигнал. Настройте антенны.
+msg_fpv_tip_gimbal_stuck===Перегрузка моторов подвеса
+msg_fpv_tip_non_gps===Готов к взлету (Визуальное удержание)
+msg_fpv_tip_atti_state===Без удержания. Летайте осторожно. (Atti)
+msg_fpv_tip_chlstatus_poor===Сильные помехи сигналу
+msg_fpv_tip_gohome===Безопасный возврат домой
+msg_fpv_tip_normal===Готов к взлету (GPS)
+msg_fpv_tip_normal_in_the_air===В полете (GPS)
+msg_fpv_tip_non_gps_in_the_air===В полете (Визуальное удержание)
+msg_fpv_tip_non_gps_nonvision===Готов к взлету
+msg_fpv_tip_non_gps_in_the_air_nonvision===В полете
+msg_fpv_tip_atti_state_in_the_air===Без удержания (Atti)
+msg_fpv_tip_back_vision_cali===Ошибка калибровки задних оптодатчиков
+msg_fpv_tip_cant_takeoff_locked===Устройство заблокировано
+msg_fpv_tip_rc_signal_disturb===Сильные помехи возле квадрокоптера
+msg_fpv_tip_radio_signal_disturb===Сильные помехи возле пульта
+msg_fpv_tip_bad_channel_quality===Плохое качество радиосвязи
+msg_fpv_tip_gale_warning===Сильный ветер. Летайте осторожно.
+msg_fpv_tip_gimbal_startup_block_detail===Подвес заблокирован
+msg_fpv_tip_gimbal_wait_restart_detail===Перегрузка моторов подвеса. Снимите фиксатор.
+msg_fpv_tip_gimbal_vibration_detail===Ненормальное дрожание подвеса
+msg_fpv_tip_touchpad_locked===Тачпанель блокирована. Смахните двумя пальцами вперед для разблокировки.
+msg_fpv_tip_sdr_env_strong_interference===Сильные помехи. Летайте осторожно
+msg_fpv_tip_sdr_env_burst_interference_glass===Электромагнитные помехи рядом с DJI Goggles
+msg_fpv_tip_sdr_env_burst_interference_uav===Электромагнитные помехи рядом с квадрокоптером
+msg_fpv_tip_sdr_env_weak_signal===Слабый сигнал. Избегайте заслонения антенн или настройте их.
+msg_fpv_tip_sdr_env_custom_channel_strong_interference===Сильные помехи на выбранном канале
+msg_fpv_tip_sdr_env_uav_reboot===Радиоканал квадрокоптера перезапущен
+msg_fpv_tip_sdr_env_rc_glass_too_far===Избегайте большого удаления DJI Goggles от пульта, или препятствий между пультом и DJI Goggles.
+msg_fpv_tip_sdr_env_adjust===Избегайте заслонения антенн или настройте их.
+msg_fpv_popup_glass_without_sdcard===SD карта в DJI Goggles не вставлена
+msg_fpv_popup_get_remote_list_failed===Сбой загрузки внешнего списка файлов.
+msg_fpv_popup_remote_file_downloaded===Внешний файл загружен
+msg_fpv_popup_remote_file_download_error===Сбой загрузки внешнего файла.
+msg_fpv_popup_remote_file_cannot_download_video===Сбой загрузки видео.
+msg_fpv_popup_remote_file_cannot_download===Только JPEG фото и 1080p и ниже видео будут загружены.
+msg_fpv_popup_local_file_cannot_play===Только JPEG фото и 1080p и ниже видео будут проиграны.
+msg_fpv_popup_no_item_founded===Нет файлов
+msg_fpv_popup_remote_file_delete_failed===Сбой удаления внешнего файла.
+msg_fpv_popup_local_file_delete_failed===Сбой удаления файла.
+msg_fpv_popup_auto_takeoff_failed===Сбой автоматического взлета
+msg_fpv_popup_auto_landing_failed===Сбой автоматической посадки
+msg_fpv_popup_auto_gohome_failed===Сбой возврата домой
+msg_fpv_popup_play_local_video_failed===Сбой воспроизведения видео
+msg_fpv_popup_play_remote_video_failed===Сбой воспроизведения внешнего видео
+msg_fpv_popup_camera_focus_failed===Сбой фокусировки
+msg_fpv_popup_visual_track_start_failed===Сбой запуска ActiveTrack
+msg_fpv_popup_visual_track_cancel_failed===Сбой отмены ActiveTrack
+msg_fpv_popup_visual_track_cmd_failed===Сбой отправки ActiveTrack комманды
+msg_fpv_popup_visual_track_exception_shake===Объект сопровождения нестабилен
+msg_fpv_popup_visual_track_exception_lowdetect===Подтвердите объект
+msg_fpv_popup_visual_track_exception_toohigh===Объект слишком высокий
+msg_fpv_popup_visual_track_exception_obstacle===Препятствие на маршруте
+msg_fpv_popup_visual_track_exception_gimbal_pitchlow===Подвес слишком низко
+msg_fpv_popup_visual_track_exception_too_far===Объект слишком далеко
+msg_fpv_popup_visual_track_exception_too_close===Объект слишком близко
+msg_fpv_popup_visual_track_exception_drone_toohigh===Квадрокоптер слишком высоко
+msg_fpv_popup_visual_track_exception_drone_toolow===Квадрокоптер слишком низко
+msg_fpv_popup_visual_track_exception_toosmall===Объект слишком мал. Приблизьтесь и повторите.
+msg_fpv_popup_visual_track_exception_toolarge===Объект слишком велик. Отдалитесь и повторите.
+msg_fpv_popup_visual_track_exception_nodetect===Объект не распознан
+msg_fpv_popup_visual_track_exception_radar_fail===Система распознавания препятствий не отвечает
+msg_fpv_popup_visual_track_exception_title===Сбой сопровождения объекта
+msg_fpv_popup_visual_track_exception_exit_default===ActiveTrack завершен
+msg_fpv_popup_visual_track_exception_searching===Объект потерян. Поиск...
+msg_fpv_popup_visual_track_exception_timeout===Объект повторно не найден
+msg_fpv_popup_visual_track_exception_nofusion===Ошибка скорости полета
+msg_fpv_popup_visual_track_exception_nonimage===Внутренняя ошибка (03)
+msg_fpv_popup_visual_track_exception_lowfps===Внутренняя ошибка (04)
+msg_fpv_popup_visual_track_exception_rc_halt===ActiveTrack приостановлен
+msg_fpv_popup_visual_track_exception_ground===Повтор после взлета
+msg_fpv_popup_visual_track_exception_over_exposure===Слишком сильное освещение
+msg_fpv_popup_visual_track_exception_under_exposure===Освещение слишком слабое
+msg_fpv_popup_visual_track_camera_setting_tip===Настройки камеры приведены к рекомендуемым.
+msg_fpv_popup_visual_point_fail_title===Сбой запуска TapFly
+msg_fpv_popup_visual_point_exit_default===TapFly полет закончен
+msg_fpv_popup_visual_point_outofrange===Слишком низко для TapFly режима
+msg_fpv_popup_visual_point_paused_tip===TapFly полет приостановлен
+msg_fpv_popup_visual_point_non_fly_zone===Квадрокоптер в запретной зоне.
+msg_fpv_popup_visual_point_taplimit_tip===Полет в этом направлении невозможен
+msg_fpv_popup_visual_tapfly_cancel_failed===Сбой отмены TapFly
+msg_fpv_popup_start_fixed_wing_failed===Сбой входа в Fixed-Wing режим
+msg_fpv_popup_stop_fixed_wing_failed===Сбой выхода из Fixed-Wing режима
+msg_fpv_popup_smart_common_exception_ground===Повторите после взлета.
+msg_fpv_popup_smart_common_fail_title===Сбой входа в этот режим.
+msg_fpv_popup_smart_common_exception_not_connected===Повторите после подключения квадрокоптера.
+msg_fpv_popup_smart_common_exception_sport_mode===Повторите после выхода из Sport режима.
+msg_fpv_popup_smart_common_exception_portrait_mode===Повторите после выхода из Портретного режима.
+msg_fpv_popup_smart_common_exception_somatic_gimbal_mode===Повторите после выхода из режима хедтрекера.
+msg_fpv_popup_smart_common_exception_somatic_flight_mode===Повторите после выхода из режима хедтрекера.
+msg_fpv_popup_smart_common_exception_tracking_mode===Повторите после выхода из режима ActiveTrack.
+msg_fpv_popup_smart_common_exception_tapfly_mode===Повторите после выхода из режима TapFly.
+msg_fpv_popup_smart_common_exception_tripod_mode===Повторите после выхода из режима Tripod.
+msg_fpv_popup_smart_common_exception_terrain_mode===Повторите после выхода из режима Terrain Follow.
+msg_fpv_popup_smart_common_exception_cinematic_mode===Повторите после выхода из режима Cinematic.
+msg_fpv_popup_somatic_gimbal_enter_failed===Сбой входа в режим хедтрекера.
+msg_fpv_popup_somatic_flight_enter_failed===Сбой входа в режим хедтрекера.
+msg_fpv_popup_somatic_exception_gimbal_down===Повторите после поднятия подвеса.
+msg_fpv_popup_somatic_exception_no_rc_connection===Повторите после подключения к пульту.
+msg_fpv_popup_focus_enter_failed_title===Сбой входа в режим фокусировки.
+msg_fpv_popup_gimbal_down_enter_failed_title===Сбой опускания подвеса.
+msg_fpv_popup_camera_center_focus_title===Автофокус по центру
+msg_fpv_popup_camera_focus_exception_due_to_somatic_gimbal===Фокусировка по любой точке ВНЕ режима хедтрекера
+msg_fpv_popup_camera_focus_exception_due_to_somatic_flight===Фокусировка по любой точке ВНЕ режима хедтрекера
+msg_fpv_popup_flightaction_motor_block===Двигатель остановлен
+msg_fpv_popup_flightaction_propeller_catapult===Холостое вращение (Винт слетел либо снят)
+msg_fpv_popup_flightaction_warning_power_gohome===Батарея разряжена. Возврат домой.
+msg_fpv_popup_flightaction_warning_power_landing===Критический разряд. Посадка. Стик газа вверх для уменьшения скорости снижения, избегайте препятствий.
+msg_fpv_popup_flightaction_smart_power_gohome===Батарея разряжена. Возврат домой.
+msg_fpv_popup_flightaction_smart_power_landing===Батарея разряжена. Принудительная посадка.
+msg_fpv_popup_flightaction_low_voltage_gohome===Батарея разряжена. Возврат домой. Нажмите Home на пульте для отмены.
+msg_fpv_popup_flightaction_low_voltage_landing===Критический разряд. Принудительная посадка. Нажмите Home на пульте для отмены.
+msg_fpv_popup_flightaction_serious_low_voltage_landing===Батарея разряжена. Посадка. Стик газа вверх для уменьшения скорости снижения, избегайте препятствий.
+msg_fpv_popup_flightaction_rc_onekey_gohome===Запущен возврат домой с пульта
+msg_fpv_popup_flightaction_rc_assistant_takeoff===Запущен взлет с пульта
+msg_fpv_popup_flightaction_rc_onekey_takeoff===Автовзлет One-tap с пульта
+msg_fpv_popup_flightaction_rc_onekey_landing===Автопосадка One-tap с пульта
+msg_fpv_popup_flightaction_app_auto_gohome===Возврат домой
+msg_fpv_popup_flightaction_app_auto_landing===Автоматическая посадка.
+msg_fpv_popup_flightaction_app_auto_takeoff===Автоматический взлет.
+msg_fpv_popup_flightaction_outof_control_gohome===Потеря управления. Возврат домой.
+msg_fpv_popup_flightaction_api_auto_takeoff===API автовзлет
+msg_fpv_popup_flightaction_api_auto_landing===API автопосадка
+msg_fpv_popup_flightaction_api_auto_gohome===API автовозврат домой
+msg_fpv_popup_flightaction_avoid_ground_auto_landing===Избежание столкновения с землей выкл. Посадка.
+msg_fpv_popup_flightaction_airport_avoid_auto_landing===Бесполетная зона. Автопосадка.
+msg_fpv_popup_flightaction_too_close_auto_landing===Точка взлета слишком близко. Автопосадка.
+msg_fpv_popup_flightaction_too_far_auto_landing===Точка взлета слишком далеко. Автопосадка.
+msg_fpv_popup_distance_limit===Достигнута максимальная дистанция.
+msg_fpv_popup_altitude_limit===Достигнута максимальная высота.
+msg_fpv_popup_swave_error===Ошибка сонаров. Незамедлительно приземляйтесь.
+msg_fpv_popup_flight_mode_patti_title===Слабый GPS сигнал
+msg_fpv_popup_flight_mode_patti_tip===Слабый GPS сигнал. Удерживание позиции в Atti режиме невозможно. Осторожно.
+msg_fpv_popup_sdcard_exception_title===Сбой сохранения данных
+msg_fpv_popup_sdcard_exception_desc===Обратитесь в DJI поддержку при повторении.
+msg_fpv_popup_imu_noconnection_title===Модуль навигации отключен
+msg_fpv_popup_imu_noconnection_desc===Обратитесь в DJI поддержку при повторении.
+msg_fpv_popup_rc_connnect_first===Необходимо подключить пульт управления.
+msg_fpv_popup_rc_calibration_title===Калибровка пульта
+msg_fpv_popup_rc_calibration_desc===Выполнить калибровку пульта.
+msg_fpv_popup_rc_calibration_exception_title===Ошибка калибровки пульта
+msg_fpv_popup_rc_calibration_exception_desc===Калибровка пульта
+msg_fpv_popup_rc_calibration_unfinished_title===Калибровка пульта провалена
+msg_fpv_popup_rc_calibration_unfinished_desc===Калибровка пульта
+msg_fpv_popup_rc_calibration_exception2_title===Ошибка калибровки пульта
+msg_fpv_popup_rc_calibration_exception2_desc===Калибровка пульта
+msg_fpv_popup_rc_calibration_exception3_title===Ошибка калибровки пульта
+msg_fpv_popup_rc_calibration_exception3_desc===Проверьте назначение каналов пульта
+msg_fpv_popup_aircraft_type_mismatch_title===Тип квадрокоптера не совпадает
+msg_fpv_popup_aircraft_type_mismatch_desc===Проверьте тип квадрокоптера
+msg_fpv_popup_found_unfinished_module_title===Найден ненастроенный модуль
+msg_fpv_popup_found_unfinished_module_desc===Обратитесь в DJI поддержку при повторении.
+msg_fpv_popup_ns_exception_title===Ошибка системы навигации
+msg_fpv_popup_ns_exception_desc===Проверьте статус резерва
+msg_fpv_popup_device_topology_exception_title===Ошибка схема устройства
+msg_fpv_popup_device_topology_exception_desc===Перезапустите и проверьте соединение
+msg_fpv_popup_rc_calibration_exception4_title===Ошибка калибровки пульта
+msg_fpv_popup_rc_calibration_exception4_desc===Откалибруйте пульт управления.
+msg_fpv_popup_software_data_invalid_title===Неверные данные ПО
+msg_fpv_popup_software_data_invalid_desc===Обратитесь в DJI поддержку при повторении.
+msg_fpv_popup_battery_authentication_exception_title===Сбой проверки батареи.
+msg_fpv_popup_battery_authentication_exception_desc===Обратитесь в DJI поддержку при повторении.
+msg_fpv_popup_battery_num_not_enough_title===Необходимы шесть батарей
+msg_fpv_popup_battery_num_not_enough_desc===Проверьте
+msg_fpv_popup_battery_communication_exception_title===Ошибка батареи
+msg_fpv_popup_battery_communication_exception_desc===Проверьте подключение батареи
+msg_fpv_popup_battery_voltage_difference_large_title===Разница напряжений слишком велика.
+msg_fpv_popup_battery_voltage_difference_large_desc===Проверьте состояние батареи
+msg_fpv_popup_battery_voltage_difference_very_large_title===Разница напряжений слишком велика.
+msg_fpv_popup_battery_voltage_difference_very_large_desc===Убедитесь что все батареи одинаково заряжены
+msg_fpv_popup_version_mismatch_title===Версии не совпадают
+msg_fpv_popup_version_mismatch_desc===Проверьте прошивку
+msg_fpv_popup_imu_calibration_finished_title===IMU калибровка выполнена.
+msg_fpv_popup_imu_calibration_finished_desc===Перезапустите квадрокоптер
+msg_fpv_popup_baro_abnormal===Ошибка барометра. Обратитесь в DJI поддержку при повторении после рестарта.
+msg_fpv_popup_compass_abnormal===Ошибка компаса. Обратитесь в DJI поддержку при повторении после рестарта.
+msg_fpv_popup_flash_operating===FLASH используется
+msg_fpv_popup_gps_abnormal===GPS ошибка. Обратитесь в DJI поддержку при повторении после рестарта.
+msg_fpv_popup_gps_disconnect===GPS не подключен
+msg_fpv_popup_gimbal_abnormal===Ошибка угла подвеса
+msg_fpv_popup_gimbal_abnormal_desc===Обратитесь в DJI поддержку при повторении после рестарта.
+msg_fpv_popup_gimbal_esc_pitch_error===Ошибка Pitch мотора подвеса.
+msg_fpv_popup_gimbal_esc_pitch_error_desc===Обратитесь в DJI поддержку при повторении после рестарта.
+msg_fpv_popup_gimbal_esc_roll_error===Ошибка Roll мотора подвеса.
+msg_fpv_popup_gimbal_esc_roll_error_desc===Обратитесь в DJI поддержку при повторении после рестарта.
+msg_fpv_popup_gimbal_esc_yaw_error===Ошибка Pan мотора подвеса.
+msg_fpv_popup_gimbal_esc_yaw_error_desc===Обратитесь в DJI поддержку при повторении после рестарта.
+msg_fpv_popup_gimbal_is_updating===Обновление подвеса
+msg_fpv_popup_gimbal_is_updating_desc===Пожалуйста ждите.
+msg_fpv_popup_gimbal_disorder===Потеря управления подвесом
+msg_fpv_popup_gimbal_disorder_desc===Обратитесь в DJI поддержку при повторении после рестарта.
+msg_fpv_popup_gimbal_pitch_shock===Вибрация подвеса по оси Pitch.
+msg_fpv_popup_gimbal_pitch_shock_desc===Закрепите камеру или уменьшите чувствительность.
+msg_fpv_popup_gimbal_roll_shock===Вибрацция подвеса по оси Roll.
+msg_fpv_popup_gimbal_roll_shock_desc===Закрепите камеру или уменьшите чувствительность.
+msg_fpv_popup_gimbal_yaw_shock===Вибрация подвеса по оси Pan.
+msg_fpv_popup_gimbal_yaw_shock_desc===Закрепите камеру или уменьшите чувствительность.
+msg_takeoff_failed_tips_compass_error===Ошибка компаса. Откалибруйте перед взлетом.
+msg_takeoff_failed_tips_assistant_protected===Отключите USB кабель от квадрокоптера.
+msg_takeoff_failed_tips_distance_limit===Слишком далеко от домашней точки. Взлет невозможен.
+msg_takeoff_failed_tips_imu_need_calibration===Ошибка IMU
+msg_takeoff_failed_tips_imu_sn_error===Обратитесь в DJI поддержку для возврата устройства.
+msg_takeoff_failed_tips_imu_warning===Разогрев IMU...
+msg_takeoff_failed_tips_compass_calibrating===Завершить калибровку компаса.
+msg_takeoff_failed_tips_atti_error===Инициализация IMU. Поставьте квадрокоптер на ровную плоскую поверхность.
+msg_takeoff_failed_tips_novice_protected===Режим новичка. GPS сигнал необходим для взлета.
+msg_takeoff_failed_tips_battery_cell_error===Ячейка батареи повреждена. Замените батарею.
+msg_takeoff_failed_tips_battery_communite_error===Ошибка коммуникации умной батареи. Убедитесь в ее оригинальности. Обратитесь в DJI поддержку при повторении после рестарта.
+msg_takeoff_failed_tips_seriou_low_voltage===Батарея разряжена. Замените или зарядите.
+msg_takeoff_failed_tips_seriou_low_power===Батарея ниже минимального уровня. Замените батарею.
+msg_takeoff_failed_tips_low_voltage===Низкое напряжение. Взлет невозможен. Замените батарею.
+msg_takeoff_failed_tips_tempure_vol_low===Батарея слишком холодная. Разогрейте до 15℃ либо замените.
+msg_takeoff_failed_tips_smart_low_to_land===Уровень ниже необходимого для умной батареи. Замените батарею.
+msg_takeoff_failed_tips_battery_not_ready===Умная батарея не готова. Запустите моторы позже.
+msg_takeoff_failed_tips_simulator_mode===Режим симулятора. Перезапустите квадрокоптер.
+msg_takeoff_failed_tips_pack_mode===Квадрокоптер в транспортном положении. Выйдите для запуска.
+msg_takeoff_failed_tips_attitude_abnormal===Угол наклона квадрокоптера слишком велик. Разместите на плоской ровной поверхности и перезапустите. Обратитесь в DJI поддержку при повторении.
+msg_takeoff_failed_tips_unactive===Активируйте квадрокоптер
+msg_takeoff_failed_tips_in_fly_limit_zone===Квадрокоптер в бесполетной зоне. Взлет невозможен.
+msg_takeoff_failed_tips_bias_limit===Отклонения IMU слишком велики. Разместите квадрокоптер на плоской ровной поверхности и перезапустите.
+msg_takeoff_failed_tips_esc_error===Ошибка ESC. Перезапустите квадрокоптер. Обратитесь в DJI поддержку при повторении.
+msg_takeoff_failed_tips_imu_initing===Инициализация IMU. Разместите квадрокоптер на плоской ровной поверхности.
+msg_takeoff_failed_tips_imuing===Калибровка IMU...
+msg_takeoff_failed_tips_attiangle===Угол наклона квадрокоптера слишком велик. Разместите на плоской ровной поверхности и перезапустите. Обратитесь в DJI поддержку при повторении.
+msg_takeoff_failed_tips_system_upgrade===Обновление квадрокоптера…
+msg_takeoff_failed_tips_simulator_started===Режим симулятора. Перезапустите квадрокоптер для сброса.
+msg_takeoff_failed_tips_gyroscope_error===Гироскоп завис. Перезапустите квадрокоптер. Обратитесь в DJI поддержку при повторении после рестарта.
+msg_takeoff_failed_tips_acceletor_error===Ошибка акселерометра. Обратитесь в DJI поддержку при повторении после рестарта.
+msg_takeoff_failed_tips_compass_failed===Ошибка компаса. Обратитесь в DJI поддержку при повторении после рестарта.
+msg_takeoff_failed_tips_barometer_error===Ошибка барометра. Перезапустите. Обратитесь в DJI поддержку при повторении после рестарта.
+msg_takeoff_failed_tips_barometer_negative===Отрицательное значение барометра. Обратитесь в DJI поддержку при повторении после рестарта.
+msg_takeoff_failed_tips_compass_big===Значение компаса вне пределов. Обратитесь в DJI поддержку при повторении после рестарта.
+msg_takeoff_failed_tips_gyroscope_bias_big===Отклонение гироскопа слишком велико. Обратитесь в DJI поддержку при повторении после рестарта.
+msg_takeoff_failed_tips_acceletor_bias_big===Отклонение акселерометра велико. Обратитесь в DJI поддержку при повторении после рестарта.
+msg_takeoff_failed_tips_compass_noise_big===Требуется калибровка компаса. Обратитесь в DJI поддержку при повторении после рестарта.
+msg_takeoff_failed_tips_barometer_noise_big===Разброс показаний барометра. Перезапустите. Обратитесь в DJI поддержку при повторении после рестарта.
+msg_motor_stop_reason_takeoff_exception===Ошибка взлета. Проверьте моторы и винты.
+msg_motor_stop_reason_esc_stall_near_gound===Ошибка взлета. Проверьте моторы и винты.
+msg_motor_stop_reason_esc_unbalance_on_grd===Ошибка взлета. Проверьте моторы и винты.
+msg_motor_stop_reason_esc_part_empty_on_grd===Ошибка взлета. Проверьте моторы и винты.
+msg_motor_stop_reason_engine_start_failed===Ошибка взлета. Проверьте моторы и винты.
+msg_motor_stop_reason_auto_takeoff_lanch_faile===Ошибка взлета. Проверьте моторы и винты.
+msg_motor_stop_reason_roll_over_on_grd===Опрокидывание квадрокоптера. Проверьте повреждения
+msg_fpv_auto_go_home===перед возвратом домой.
+msg_fpv_auto_go_home_tips===Квадрокоптер начнет возврат по окончанию отсчета. Подтвердите или отмените. (Это сообщение исчезнет после отмены)
+msg_fpv_hdmi_light===Яркость
+msg_fpv_hdmi_volume===Громкость
+msg_fpv_hdmi_zoom===Масштаб
+msg_fpv_hdmi_exit===Выход
+msg_fpv_album_photos===ФОТО
+msg_fpv_album_videos===ВИДЕО
+msg_fpv_album_local===В очках
+msg_fpv_album_remote===В квадрокоптере
+msg_fpv_toolset_turnon_obstacle===Включение избежания препятствий
+msg_fpv_toolset_control_tip1===Нажмите 5D джойстик на пульте влево и вправо (Только для Mavic Pro).
+msg_fpv_toolset_control_tip2===Или смахните по тачпанели вперед или назад.
+msg_fpv_toolset_pbar_control_tip===Нажмите 5D джойстик на пульте влево или вправо либо смахните по тачпанели вперед или назад.
+msg_fpv_toolset_info_product_number===Название
+msg_fpv_toolset_info_version_number===Версия прошивки
+msg_fpv_toolset_info_kernel_version===Версия kernel
+msg_fpv_toolset_info_run_memory===RAM
+msg_fpv_toolset_info_stroage===Хранилище
+msg_fpv_toolset_pairing_connect_as_master===Подключить как Master
+msg_fpv_toolset_pairing_connect_as_slave===Подключить как Slave
+msg_fpv_toolset_pairing_connect_to_rc===Подключить к пульту
+msg_fpv_toolset_pairing_cancel===Отмена подключения
+msg_fpv_toolset_turnon_power_save===Включить энергосбережение
+msg_fpv_toolset_somatic_lock_mode===Режим блокировки
+msg_fpv_toolset_somatic_gimbal_mode===Режим подвеса
+msg_fpv_toolset_somatic_flight_mode===Полетный режим
+msg_fpv_toolset_hdvt_sport_mode===Сглаживание
+msg_fpv_toolset_hdvt_clear_mode===HD режим
+msg_fpv_toolset_hdvt_keep_current===Нормальный режим
+msg_fpv_toolset_hdvt_save_setting===Сохранить настройки
+msg_fpv_toolset_image_transmission===Видеопередача
+msg_fpv_toolset_avoid_obstacle===Избежание препятствий
+msg_fpv_toolset_somatic_mode===Режим движения
+msg_fpv_toolset_power_save_mode===Энергосбережение
+msg_fpv_toolset_liveview_format===Liveview
+msg_fpv_toolset_pairing===Настройки привязки
+msg_fpv_toolset_pairing_wireless===DJI Goggles беспроводная привязка
+msg_fpv_toolset_pairing_note===Беспроводная привязка возможна только с Mavic Pro
+msg_fpv_toolset_pairing_done===Привязка выполнена
+msg_fpv_toolset_pairing_timeout===Время привязки истекло
+msg_fpv_toolset_pairing_timeout_note===Убедитесь что квадрокоптер или пульт в режимя привязки. Повторите.
+msg_fpv_toolset_pairing_quick===Быстрая привязка
+msg_fpv_toolset_pairing_quick_info===Быстрая привязка используется для подключения одних DJI Goggles и пульта.
+msg_fpv_toolset_pairing_quick_connect_plane===Подключите DJI Goggles к квадрокоптеру
+msg_fpv_toolset_pairing_quick_connect_info===* Убедитесь что Mavic Pro привязан к пульту. \n* Нажмите кнопку привязки на Mavic Pro.
+msg_fpv_toolset_pairing_trying===Привязка DJI Goggles
+msg_fpv_toolset_pairing_quick_status===Привязка DJI Goggles. Держите DJI Goggles неподвижно.
+msg_fpv_toolset_pairing_advanced===Расширенная привязка
+msg_fpv_toolset_pairing_advanced_info===Расширенная привязка используется для подключения нескольких DJI Goggles и пультов.
+msg_fpv_toolset_pairing_advanced_select===Выберите роль привязанных DJI Goggles.
+msg_fpv_toolset_pairing_advanced_number===Быберите одни или двое DJI Goggles для подключения.
+msg_fpv_toolset_pairing_master_glasses===Первичный/Пульт
+msg_fpv_toolset_pairing_slave_glasses===Вторичный/Пульт
+msg_fpv_toolset_pairing_advanced_connect_info===* идет привязка Mavic Pro.
+msg_fpv_toolset_pairing_advanced_connect_plane===Подключение двух DJI Goggles к квадрокоптеру
+msg_fpv_toolset_pairing_advanced_connect_master===Подключение первичных DJI Goggles к квадрокоптеру
+msg_fpv_toolset_pairing_advanced_ensure_master===* Убедитесь что первичные DJI Goggles привязаны
+msg_fpv_toolset_pairing_advanced_connect_slave===Подключение вторичных DJI Goggles к квадрокоптеру
+msg_fpv_toolset_pairing_rc_if_or_not===Проверьте подключен ли пульт. Выйдите из привязки если не подключен.
+msg_fpv_toolset_pairing_rc_none===Нет пульта
+msg_fpv_toolset_pairing_rc_link===Подключить пульт
+msg_fpv_toolset_pairing_rc_glasses===Подключить DJI Goggles к пульту
+msg_fpv_toolset_pairing_rc_master===Подключить первичные DJI Goggles к пульту
+msg_fpv_toolset_pairing_rc_slave===Подключить вторичные DJI Goggles к пульту
+msg_fpv_toolset_pairing_rc_info===Откройте DJI GO 4, выберите Remote Controller Settings > Linking Remote Controller.
+msg_fpv_toolset_brightness_control===Настройки яркости
+msg_fpv_toolset_volume_setting===Настройки громкости
+msg_fpv_toolset_imu_correction===Калибровка IMU
+msg_fpv_toolset_factory_default===Полный сброс
+msg_fpv_toolset_format_sdcard===Форматировать SD карту
+msg_fpv_toolset_device_info===Информация об устройстве
+msg_fpv_toolset_factory_default_tip===Восстановить заводские настройки?\nЭто сбросит все настройки DJI Goggles.
+msg_fpv_toolset_format_sdcard_tip===Форматировать DJI Goggles SD карту?\nЭто удалит все настройки DJI Goggles и файлы на карте памяти.
+msg_fpv_toolset_hdvt_no_link_tip===Проверьте подключение DJI Goggles к квадрокоптеру.
+msg_fpv_toolset_powersave_off===Энергосбережение выключено
+msg_fpv_toolset_powersave_on===Энергосбережение включено
+msg_fpv_hdvt_liveview_setting===Liveview настройки
+msg_fpv_hdvt_liveview_setting_sport_tip===720p60 с минимальной задержкой. Изменение формата может остановить запись либо сбросить настройки камеры.
+msg_fpv_hdvt_liveview_setting_clear_tip===1080p30 с максимальным качеством. Изменение формата может остановить запись либо сбросить настройки камеры.
+msg_fpv_hdvt_liveview_setting_keep_tip===720P30 позволяет уменьшить ширину канала видеопередачи без изменения качества записи.
+msg_fpv_tools_top_setting===Настройки
+msg_fpv_tools_top_takeoff===Взлет
+msg_fpv_tools_top_landing===Возврат домой
+msg_fpv_tools_top_smart===Умный
+msg_fpv_tools_top_hdmi===HDMI вход
+msg_fpv_tools_top_replay===Воспроизведение
+msg_fpv_tools_takeoff_tip===Убедитесь в безопасности взлета. Квадрокоптер зависнетна высоте 1.2м от земли.
+msg_fpv_tools_landing_tip===Квадрокоптер проложит маршрут и вернется домой.
+msg_fpv_tools_smart_tap_fly===TapFly
+msg_fpv_tools_smart_tracking===ActiveTrack
+msg_fpv_tools_smart_fixed_wing===Fixed-Wing
+msg_fpv_tools_smart_cinematic_mode===Cinematic
+msg_fpv_tools_smart_tap_fly_desc===В режиме TapFly, пилот может коснуться экрана для полета в этом направлении без использования пульта. Квадрокоптер автоматически будет избегать видимые препятствия или остановится и зависнет при недостаточной освещенности (<300 lux) либо ослепляющей (> 10,000 lux).
+msg_fpv_tools_smart_tracking_desc===ActiveTrack позволяет выделить и сопровождать объект на экране. Квадрокоптер будет избегать препятствия на пути. Внешних отслеживающих устройств не требуется. Квадрокоптер может идентифицировать и отслеживать велосипеды и другие траспортные средства, людей и животных, и использовать разные методы сопровождения.
+msg_fpv_tools_smart_fixed_wing_desc===Нажмите 'Настроить сейчас.' Кнопка C1 будет настроена на активацию режима Fixed-Wing и кнопка C2 для выхода из режима в настройках пульта. Для входа в режим Fixed-Wing, удерживайте стик вперед три секунды. Далее нажмите C1 или Fixed-Wing иконку на экране. Нажмите C2 или красный крест на экране для выхода. Летайте с удержанием скорости и плавными разворотами.
+msg_fpv_tools_smart_cinematic_desc===В режиме Cinematic, Вы можете снимать фото и видео более плавно. Резкость управления по курсу будет снижена и дистанция торможения увеличится. Летайте осторожно.
+msg_fpv_smart_normal===Обычный
+msg_fpv_smart_tracking_ensure===ActiveTrack
+msg_fpv_smart_tapfly_ensure===TapFly
+msg_fpv_smart_tapfly_except_obstacle===Препятствие на маршруте
+msg_fpv_smart_tracking_except_radar_fail===Сбой переднего радара
+msg_fpv_rt_album_download===Скачать
+msg_fpv_rt_album_download_video_tip===Скачать это видео?
+msg_fpv_rt_album_download_photo_tip===Скачать это фото?
+msg_fpv_rt_album_download_file_tip===Скачать этот файл?
+msg_fpv_rt_album_delete===Удалить
+msg_fpv_rt_album_delete_video_tip===Удалить это видео?
+msg_fpv_rt_album_delete_photo_tip===Удалить это фото?
+msg_fpv_rt_album_delete_file_tip===Удалить этот файл?
+msg_fpv_hdmi_confirm_exit===Выйти?
+msg_fpv_landing_tip1===Квадрокоптер снизился до 0.3м высоты. Продолжить снижение?
+msg_fpv_landing_tip2===Квадрокоптер снизился до %2.1fm высоты. Продолжить снижение?
+msg_fpv_landing_tip_in2===Квадрокоптер низко завис. Убедитесь в безопасности. Нажмите стик вниз для посадки.
+msg_fpv_landing_check_title===Не подходит для посадки
+msg_fpv_landing_check_not_smooth===Не подходит для посадки. Найдите подходящее место.
+msg_fpv_change_video_standard===Переключение PAL/NTSC
+msg_fpv_change_video_standard_tip===Изменить стандарт видео?
+msg_fpv_glass_imu_calibration_tip===Снимите и положите DJI Goggles на плоскую поверхность. Нажмите подтвердить и калибровка произойдет через 5 сек.
+msg_fpv_glass_imu_calibration_result1===DJI Goggles калибровка
+msg_fpv_glass_imu_calibration_result2===DJI Goggles калибровка выполнена
+msg_fpv_glass_imu_calibration_result3===DJI Goggles сбой калибровки
+msg_fpv_glass_imu_calibration_result4===IMU калибровка через 5 сек
+msg_fpv_liveview_title===LIVEVIEW
+msg_fpv_shortcut_fullscreen_mode===Полный экран
+msg_fpv_shortcut_somatic_flight_control===Хедтрекер полета
+msg_fpv_shortcut_somatic_gimbal_control===Хедтрекер подвеса
+msg_fpv_shortcut_portrait_landscape===Портретный/Альбомный режим
+msg_fpv_shortcut_fixed_wing_flight_mode===Fixed-Wing режим
+msg_fpv_shortcut_terrain_follow===Terrain Follow
+msg_fpv_shortcut_tripod_mode===Tripod режим
+msg_fpv_shortcut_reset_gimbal_flight===центровка хедтрекера
+msg_fpv_gimbal_up_down===Подвес Прямо/Вниз
+msg_fpv_shortcut_fullscreen_mode_desc===Вся полетная информация и меню будут скрыты в режиме полного экрана. Летайте осторожно. \n Нажмите назад в DJI Goggles либо C2 на пульте для выхода.
+msg_fpv_shortcut_somatic_flight_control_desc_wm220===Контролируйте полет квадрокоптера и наклон подвеса движением головы. Посмотрите вверх либо вниз для изменения наклона подвеса от -90° до 30°.\nПовороты головы вправо и влево управляют поворотом ЛА по курсу. Хедтрекер можно использовать совместно с пультом.\nПереключите Liveview в режим сглаживания для большего погружения.
+msg_fpv_shortcut_somatic_gimbal_control_desc_wm220===Контролируйте положение подвеса движением головы. Посмотрите вверх либо вниз для изменения наклона подвеса от -90° до 30°.\nДвижение головы влево и вправо повернет подвес от -30° до 30°.\nПереключите Liveview в режим сглаживания для большего погружения.
+msg_fpv_shortcut_somatic_flight_control_desc_p4===Контролируйте полет квадрокоптера и наклон подвеса движением головы. Посмотрите вверх либо вниз для изменения наклона подвеса от -90° до 30°.\nПовороты головы вправо и влево управляют поворотом ЛА по курсу. Хедтрекер можно использовать совместно с пультом.\nПереключите Liveview в режим сглаживания для большего погружения.
+msg_fpv_shortcut_somatic_gimbal_control_desc_p4===Контролируйте положение подвеса движением головы. Посмотрите вверх либо вниз для изменения наклона подвеса от -90° до 30°.\nДвижение головы влево и вправо повернет квадрокоптер от -30° до 30°.\nПереключите Liveview в режим сглаживания для большего погружения.
+msg_fpv_shortcut_somatic_flight_control_desc_p4p===Контролируйте полет квадрокоптера и наклон подвеса движением головы. Посмотрите вверх либо вниз для изменения наклона подвеса от -120° до 50°.\nПовороты головы вправо и влево управляют поворотом ЛА по курсу. Хедтрекер можно использовать совместно с пультом.\nПереключите Liveview в режим сглаживания для большего погружения.
+msg_fpv_shortcut_somatic_gimbal_control_desc_p4p===Контролируйте положение подвеса движением головы. Посмотрите вверх либо вниз для изменения наклона подвеса от -90° до 30°.\nДвижение головы влево и вправо повернет квадрокоптер от -30° до 30°.\nПереключите Liveview в режим сглаживания для большего погружения.
+msg_fpv_shortcut_somatic_flight_control_desc_i2===Контролируйте полет квадрокоптера и наклон подвеса движением головы. Посмотрите вверх либо вниз для изменения наклона подвеса от -90° до 30°.\nПовороты головы вправо и влево управляют поворотом ЛА по курсу. Хедтрекер можно использовать совместно с пультом.\nПереключите Liveview в режим сглаживания для большего погружения.
+msg_fpv_shortcut_somatic_gimbal_control_desc_i2===Контролируйте положение подвеса движением головы. Посмотрите вверх либо вниз для изменения наклона подвеса от -90° до 30°.\nДвижение головы влево и вправо повернет квадрокоптер от -300° до 300°.\nПереключите Liveview в режим сглаживания для большего погружения.
+msg_fpv_shortcut_portrait_landscape_desc===Нажмите для переключения между портретным и альбомным режимами.  Разворот камеры на 90° для портретной съемки.
+msg_fpv_shortcut_fixed_wing_flight_mode_desc===Полет в режиме Fixed-Wing. Квадрокоптер не может лететь влево, вправо или назад.
+msg_fpv_shortcut_terrain_follow_desc===Квадрокоптер автоматически подстроит высоту отталкиваясь от расстояния до поверхности. Режим Terrain Follow будет автоматически выключен если квадрокоптер поднимется слишком высоко.\nУсловие:  Полет на высоте от 1 до 13 метров над поверхностью с наклоном менее 20° (например луга).
+msg_fpv_shortcut_tripod_mode_desc===После включения режима Tripod, скорость полета и чувствительность управления будут снижены для точности и стабильности съемки.
+msg_fpv_shortcut_reset_gimbal_flight_desc===Подвес будет выставлен по центру после нажатия центровки.
+msg_fpv_gimbal_up_down_desc===Коснитесь тачпанели для быстрого переключения между взглядом вдоль горизонта или перпендикулярно вниз.
+msg_fpv_camera_workmode_change_title===Режим камеры изменен
+msg_fpv_camera_cap_mode_liveview_desc===Переключено в режим фотосъемки. Это может изменить формат livevew.
+msg_fpv_camera_record_mode_liveview_desc===Переключено в режим видеосъемки. Это может изменить формат livevew.
+msg_fpv_activate_type===Тип активации
+msg_fpv_activate_use_pc===Через DJI Assistant 2
+msg_fpv_activate_use_pc_tips===В основном используется этот метод активации.
+msg_fpv_activate_use_pc_note===Снимите и подключите DJI Goggles к компьютеру.  Активируйте DJI Goggles через DJI Assistant 2.
+msg_fpv_activating===Активация...
+msg_fpv_activate_use_mobile===Через смартфон
+msg_fpv_activate_use_mobile_tips===Подключение к Mavic Pro необходимо для этого метода активации.
+msg_fpv_activate_success===Успешно активировано
+msg_fpv_activate_fail===Сбой активации
+msg_fpv_activate_update===Для новых возможностей и улучшения характеристик, обновите квадрокоптер, пульт и DJI Goggles до последней версии.
+msg_fpv_activate_enter===Старт активации
+msg_fpv_activate_use_mobile_note===Снимите и активируйте DJI Goggles через смартфон.
+msg_fpv_update_firmware_title===Обнаружена новая версия
+msg_fpv_update_no_remind===не показывать больше
+msg_fpv_enter_fix_wing_tip===Запуск-C1
+msg_fpv_quit_fix_wing_tip===Выход-C2
+msg_fpv_near_forbid_area_title===Квадрокоптер приближается к бесполетной зоне.
+msg_fpv_near_forbid_area_desc===Осторожно отдаляйтесь.
+msg_fpv_under_forbid_area_title===Квадрокоптер внутри бесполетной зоны.
+msg_fpv_under_forbid_area_desc===Осторожно покиньте ее.
+msg_fpv_in_buffer_area_title===Квадрокоптер внутри буфферной бесполетной зоны.
+msg_fpv_in_buffer_area_desc===Осторожно покиньте ее.
+msg_fpv_in_forbid_area_title===Квадрокоптер в бесполетной зоне.
+msg_fpv_in_forbid_area_desc===Осторожно покиньте ее.
+msg_in_white_list_area_title===Квадрокоптер в разрешенной зоне.
+msg_in_white_list_area_desc===
+msg_in_warning_area_title===Квадрокоптер в опасной зоне.
+msg_in_warning_area_desc===Осторожно покиньте ее.
+msg_fpv_popup_smart_fixed_wing_title===Квадрокоптер в режиме Fixed-Wing.
+msg_fpv_popup_smart_fixed_wing_desc===Нажмите C2 для выхода.
+msg_fpv_popup_somatic_exception_not_in_sky===Попробуйте снова после взлета.
+msg_fpv_format_sdcard_success===DJI Goggles SD карта отформатирована.
+msg_fpv_format_sdcard_fail===Сбой форматирования DJI Goggles SD карты.
+msg_fpv_format_sdcard_not_exist===DJI Goggles SD карта не вставлена.
+msg_fpv_format_sdcard_formatting===DJI Goggles SD карта форматируется...
+msg_fpv_format_sdcard_unknown_err===Неизвестный сбой при форматировании DJI Goggles SD карты.
+msg_fpv_guide_touch_ok_content===Коснитесь для подтверждения.
+msg_fpv_guide_touch_updown_content===Смахните вверх или вниз по тачпанели для обзора возможностей.
+msg_fpv_guide_touch_leftright_title===Инструктаж
+msg_fpv_guide_touch_leftright_content===Смахните влево или вправо одним пальцем для переключения (настройки камеры/фото/видео).
+msg_fpv_guide_skip_tip===Пропустить
+msg_fpv_guide_cancel_content===Нажмите кнопку назад DJI Goggles для возврата на предыдущую страницу.
+msg_fpv_guide_shortcut_content===Смахните двумя пальцами вниз по тачпанели для отображения ярлыков.\nСмахните вверх чтобы скрыть.
+msg_fpv_guide_lock_content===Смахните двумя пальцами влево для блокировки тачпанели.\n Смахните вправо двумя пальцами для разблокировки.
+msg_fpv_guide_complete===Инструктаж пройден
+msg_fpv_guide_replay===*Перейдите в Настройки > Инструктаж чтобы повторить его.
+msg_fpv_guide_complete_text===Выполнено
+msg_fpv_guide_next_text===Дальше
+msg_fpv_guide_select_content===Смахните одним пальцем для просмотра пунктов.
+msg_fpv_guide_ensure_content===Смахните одним пальцем влево или вправо для переключения
+msg_fpv_guide_prev_text===Назад
+msg_fpv_toolset_guide_title===Инструкция
+msg_fpv_toolset_guide_content===Открыть инструкцию?
+msg_fpv_tip_remote_disconnect===Квадрокоптер не подключен
+msg_battery_top_tips_exception===Ошибка батареи
+msg_fpv_tip_low_voltage===Низкий заряд батареи
+msg_fpv_tip_rc_megnetic_strong===Черезмерные электромагнитные помехи возле пульта. Квадрокоптер автоматически вернется домой и приземлится.
+msg_fpv_tip_rc_megnetic_medium===Сильные электромагнитные помехи возле пульта. Запустите возврат для посадки.
+msg_fpv_tip_rc_megnetic_low===Электромагнитные помехи возле пульта.  Измените место полета.
+msg_check_list_gimbal_startup_block_detail===Подвес блокирован
+msg_check_list_gimbal_wait_restart_detail===Перегруз моторов подвеса. Убедитесь что фиксатор снят.
+msg_check_gimbal_vibration_detail===Ненормальная тряска подвеса.
+msg_fpv_nfz_landing_cd_title===Автопосадка через %dс.
+msg_fpv_nfz_landing_cd_content===Квадрокоптер в бесполетной зоне и начнет снижаться после отсчета. Летите осторожно.
+msg_fpv_nfz_landing_cd_error_popup===Квадрокоптер начнет снижаться через %dс.
+msg_fpv_tip_nfz_flying===Полет в этой зоне невозможен. Посадка.
+msg_fpv_tip_in_nfz_max_height===Зона ограниченной высоты (GPS) - лимит: %dм
+msg_gs_hide===Скрыть
+msg_flight_forbid_red_zone_title===Ограничения полета
+msg_flight_forbid_around_area_smart_gohome_tip===Бесполетная зона рядом. При попадании в бесполетную зону в режиме автовозврата, либо в интеллектуальных режимах, полет будет ограничен. Летайте осторожно.
+msg_flight_forbid_not_unlock_alert_txt===Квадрокоптер в бесполетной зоне. Взлет невозможен.
+msg_flight_forbid_warn_edge_alert_txt===Квадрокоптер приближается к бесполетной зоне. Летите осторожно.
+msg_flight_forbid_warn_alert_txt===Квадрокоптер в опасной зоне. Летите осторожно.
+msg_fpv_popup_hdmi_not_plugged_in===HDMI отключен
+msg_fpv_tip_vision_ultrasonic_error===Ошибка сонаров
+msg_fpv_popup_visual_fixed_wing_cancelled_title===Режим Fixed-Wing отменен
+msg_fpv_popup_visual_fixed_wing_not_entered===Вход в режим Fixed-Wing невозможен
+msg_fpv_popup_visual_fixed_wing_rc_gear_except_desc===Квадрокоптер в режиме ATTI. Режим Fixed-Wing отменен.
+msg_fpv_popup_visual_fixed_wing_obstacle_except_desc===Сбой облета препятствия. Режим Fixed-Wing отменен.
+msg_fpv_popup_visual_fixed_wing_collision_brake_valid_desc===Препятствие на маршруте. Торможение. Режим Fixed-Wing отменен.
+msg_fpv_popup_visual_fixed_wing_bypass_except_title===Квадрокоптер поднимается для облета препятствия на маршруте.
+msg_fpv_popup_visual_fixed_wing_pitch_except_title===Квадрокоптер замедляется.
+msg_fpv_popup_visual_fixed_wing_low_limit_title===Вход в режим Fixed-Wing невозможен; высота полета недостаточна.
+msg_fpv_popup_visual_fixed_wing_hor_fly_on_bottom_title===Квадрокоптер слишком близко к объекту под ним. Горизонтальный полет.
+msg_fpv_popup_visual_fixed_wing_pause_except_desc===Квадрокоптер в удержании.
+msg_fpv_popup_visual_fixed_wing_slow_down_brake_title===Торможение перед препятствием на маршруте квадрокоптера.
+msg_fpv_popup_visual_fixed_wing_self_rotate_title===Квадрокоптер вращается.
+msg_fpv_popup_visual_fixed_wing_over_exposure_desc===Ослепление передних оптодатчиков. Режим Fixed-Wing отменен.
+msg_fpv_popup_visual_fixed_wing_under_exposure_desc===Передним оптодатчикам недостаточно света. Режим Fixed-Wing отменен.
+msg_fpv_popup_visual_fixed_wing_vision_mismatch_desc===Слишком большой разброс данных передних оптодатчиков. Режим Fixed-Wing отменен.
+msg_fpv_popup_visual_fixed_wing_cali_parm_except_desc===Сбой параметров передних оптодатчиков. Режим Fixed-Wing отменен.
+msg_fpv_popup_visual_fixed_wing_drone_not_takeoff_desc===Квадрокоптер не в воздухе.
+msg_fpv_popup_visual_fixed_wing_user_stop_title===Коснитесь Выход для выключения Fixed-Wing режима.
+msg_fpv_popup_visual_fixed_wing_footstool_lay_down_desc===Шасси выпущено. Вход в Fixed-Wing режим невозможен.
+msg_fpv_popup_visual_fixed_wing_reach_nfz_buffer_desc===Буферная бесполетная зона. Режим Fixed-Wing отменен.
+msg_fpv_toolset_demo_video===Демо видео
+msg_fpv_toolset_demo_video_list===Список видео
+msg_fpv_toolset_pairing_prompt_title===Совет
+msg_fpv_toolset_pairing_prompt1===DJI Goggles подключены. C1 и C2 теперь выполняют функции физических кнопок в очках. Нажмите C1 и C2 одновременно для входа в меню ярлыков.
+msg_fpv_toolset_pairing_prompt2===5D джойстик на пульте может использоваться для навигации в меню очков.
+msg_fpv_toolset_somatic_sense===Чувствительность хедтрекера
+msg_fpv_toolset_powersave_tips===DJI Goggles перейдут в спящий режим через 30 секунд после снятия, и автоматически выключатся через 30 минут.
+msg_fpv_guide_snapshot_content===Коснитесь тачпанели и удерживайте двумя пальцами 1 секунду для снимка экрана. Снимки будут сохранены на карту памяти очков.
+msg_fpv_popup_screencap_success===Снимок экрана сохранен
+msg_fpv_popup_screencap_fail===Сбой снимка экрана
+msg_fpv_popup_screencap_no_sdcard===Сбой снимка экрана. SD карта не вставлена.
+msg_fpv_popup_screencap_sdcard_full===Недостаточно места для сохранения снимка.
+msg_fpv_popup_screencap_sdcard_except===Снимок невозможен, ошибка карты памяти.
+msg_fpv_popup_flyc_gale_warning===Сильный ветер. Летайте осторожно и держите квадрокоптер в поле зрения.
+msg_fpv_toolset_unit_imperial===Имперская
+msg_fpv_toolset_unit_metric===Метрическая(М/с)
+msg_fpv_toolset_unit_metric_km===Метрическая(Км/ч)
+msg_fpv_toolset_unit_title===Единицы
+msg_fpv_popup_vt_format_change_prompt===Формат liveview переключен в %dP%d на этом разрешении съемки.
+msg_fpv_popup_video_format_change_prompt===Формат записи видео переключен в %s.
+msg_fpv_camera_grid_set===Включить сетку
+msg_fpv_camera_grid_none===Выключить
+msg_fpv_camera_grid_normal===Сетка с линиями
+msg_fpv_camera_grid_diagonal===Сетка + Диагонали
+msg_fpv_toolset_ar_assist===Настройки дополненной реальности
+msg_fpv_fixed_wing_ar===AR Fixed-Wing
+msg_fpv_somatic_gimbal_ar===AR хедтрекера подвеса
+msg_fpv_somatic_flight_ar===AR хедтрекера полета
+

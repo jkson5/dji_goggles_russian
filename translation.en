@@ -1,0 +1,668 @@
+msg_guide_language_selection===Language
+msg_guide_language_chinese===中文(简体)
+msg_guide_language_traditional===中文(繁體)
+msg_guide_language_japanese===日本語
+msg_guide_language_korean===한국어
+msg_guide_language_german===Русский
+msg_guide_device_active===Computer Activation:  \n1. Run DJI Assistant 2. \n2. Connect DJI Goggles to the computer using a USB cable.\n3. Go to the Activation page in DJI Assistant 2 and click Activate. \n4. DJI Goggles are ready to use after activation. \n \nMavic Pro users can also activate the DJI Goggles by connecting their smartphone to the remote controller.
+msg_guide_reactive_glass===Reactivate DJI Goggles
+msg_guide_device_active_success===DJI Goggles Activated
+msg_guide_device_is_not_active===DJI Goggles not Activated
+msg_guide_welcome===Welcome
+msg_guide_welcome_description===DJI Goggles support the following aircrafts: \n\n * Mavic Pro\n * Phantom 4\n * Phantom 4 Pro\n * Inspire2
+msg_guide_terms_of_use===Terms of Use
+msg_guide_terms_description1===Note:\n Stay away from manned aircraft and fly responsibly. If flying in First Person View (FPV) while using  DJI Goggles, a spotter is required to ensure safety.
+msg_guide_terms_agree===I have read and accept the terms in this Agreement.
+msg_guide_pairing_single===Connect one set of Goggles
+msg_guide_pairing_double===Connect two sets of Goggles
+msg_guide_pairing_prompt===Choose to connect one or two sets of DJI Goggles and remote controllers to the Mavic Pro.  If flying a non-Mavic Pro aircraft, exit this menu and connect DJI Goggles to the remote controller using a USB or HDMI cable.
+msg_default_fpv_value===N/A
+msg_ctrl_mode===FLIGHT MODE
+msg_ctrl_mode_manual===Manual
+msg_ctrl_mode_atti===Atti
+msg_ctrl_mode_landing===Landing
+msg_ctrl_mode_takeoff===Takeoff
+msg_ctrl_mode_gohome===GoHome
+msg_ctrl_mode_joystick===Joystick
+msg_ctrl_mode_navi===Navi
+msg_ctrl_mode_clickgo===ClickGo
+msg_ctrl_mode_patti===P-Atti
+msg_ctrl_mode_popti===P-OPTI
+msg_ctrl_mode_pgps===P-GPS
+msg_ctrl_mode_fcl===F-CL
+msg_ctrl_mode_fhl===F-HL
+msg_ctrl_mode_pcl===P-CL
+msg_ctrl_mode_acl===A-CL
+msg_ctrl_mode_phl===P-HL
+msg_ctrl_mode_ffollow_me===F-FM
+msg_ctrl_mode_fpoi===F-POI
+msg_ctrl_mode_fway_point===F-WP
+msg_ctrl_mode_fexit===F-GPS
+msg_ctrl_mode_fopti===F-OPTI
+msg_ctrl_mode_sport===Sport
+msg_ctrl_mode_novice===Beginner
+msg_ctrl_mode_fatti===F-Atti
+msg_ctrl_mode_opti===OPTI
+msg_ctrl_mode_gps===GPS
+msg_ctrl_mode_cl===CL
+msg_ctrl_mode_hl===HL
+msg_ctrl_mode_follow_me===FM
+msg_ctrl_mode_poi===POI
+msg_ctrl_mode_way_point===WP
+msg_ctrl_mode_ftracking===ActiveTrack
+msg_ctrl_mode_fpointing===TapFly
+msg_ctrl_mode_fhover===GPS
+msg_ctrl_mode_fpv===FPV
+msg_ctrl_mode_somersault===Somersault
+msg_ctrl_mode_neo===NEO
+msg_ctrl_mode_navi_adv_gohome===Adv GoHome
+msg_ctrl_mode_navi_adv_landing===Adv Landing
+msg_ctrl_mode_navi_tripod_gps===Tripod
+msg_ctrl_mode_cinematic===Cinematic
+msg_ctrl_mode_watch_gps_atti_cl===Watch
+msg_ctrl_mode_search_mode===Search
+msg_ctrl_mode_engine_start===Motor Start
+msg_fpv_distance===DISTANCE
+msg_fpv_height===HEIGHT
+msg_fpv_confirm===Confirm
+msg_fpv_cancel===Cancel
+msg_fpv_restart===Restart
+msg_fpv_ok===OK
+msg_fpv_return===Back
+msg_fpv_retry===Retry
+msg_fpv_next===Next
+msg_fpv_back===Previous
+msg_fpv_waiting_be_activated===Wait for activation
+msg_fpv_done===Complete
+msg_fpv_camera_basic_photo===PHOTO
+msg_fpv_camera_basic_video===VIDEO
+msg_fpv_camera_basic_exposure===EXPOSURE
+msg_fpv_camera_auto===AUTO
+msg_fpv_camera_filter_none===None
+msg_fpv_camera_filter_neutral===D-Log
+msg_fpv_camera_filter_art===Art
+msg_fpv_camera_filter_blackwhite===BW
+msg_fpv_camera_filter_colorful===Vivid
+msg_fpv_camera_filter_film===D-Cinelike
+msg_fpv_camera_filter_m31===Beach
+msg_fpv_camera_filter_kdx===Dream
+msg_fpv_camera_filter_prismo===Classic
+msg_fpv_camera_filter_jugo===Nostalgia
+msg_fpv_camera_photoformat===Image Format
+msg_fpv_camera_videoformat===Video Format
+msg_fpv_camera_whitebalance===White Balance
+msg_fpv_camera_antiblink===Anti-Flicker
+msg_fpv_camera_picturesize===Photo Ratio
+msg_fpv_camera_videoresolution===Video Size
+msg_fpv_camera_picture_style===Style
+msg_fpv_camera_filter===Color
+msg_fpv_camera_photo_mode===Capture Mode
+msg_fpv_camera_photomode_single===Single Shot
+msg_fpv_camera_photomode_hdr===HDR
+msg_fpv_camera_photomode_burst===Multiple
+msg_fpv_camera_photomode_aeb===AEB
+msg_fpv_camera_photomode_time===Timed Shot
+msg_fpv_camera_wb_auto===Auto
+msg_fpv_camera_wb_indoor===Cloudy
+msg_fpv_camera_wb_outdoor===Sunny
+msg_fpv_camera_wb_water===Water
+msg_fpv_camera_wb_tungsten===Incandescent
+msg_fpv_camera_wb_neon===Neon
+msg_fpv_tip_disconnect===Disconnected
+msg_fpv_tip_mc_sd_mode===Flight Data Mode. Restart Aircraft to Exit.
+msg_fpv_tip_no_video_signal===No Image Transmission Signal
+msg_fpv_tip_mc_error===Main Controller Data Error
+msg_fpv_tip_imu_cali===IMU Calibration Required
+msg_fpv_tip_camera_encrypt_error===Camera Error
+msg_fpv_tip_compass_error===Compass Error. Move aircraft or calibrate compass.
+msg_fpv_tip_esc_error_sky===ESC Error. Return to home now.
+msg_fpv_tip_esc_error===ESC Error
+msg_fpv_tip_patti_error===Magnetic Filed Interference. Exit P-GPS Mode.
+msg_fpv_tip_barometer_dead===Barometer Error. Land Aircraft Slowly.
+msg_fpv_tip_front_vision_cali===Forward Vision Sensor Calibration Error
+msg_fpv_tip_down_vision_cali===Downward Vision Sensor Calibration Error
+msg_fpv_tip_vision_error===Vision System Error
+msg_fpv_tip_battery_exception===Battery Error. Please check.
+msg_fpv_tip_battery_broken===Battery Cell Damaged
+msg_fpv_tip_battery_over_current===Overcurrent During Discharge
+msg_fpv_tip_battery_over_temp===Overheating During Discharge
+msg_fpv_tip_battery_low_temp===Low Temperature During Discharge
+msg_fpv_tip_imu_initializing===IMU Initializing
+msg_fpv_tip_sensor_error===IMU Error. Restart aircraft.
+msg_fpv_tip_imu_error===IMU Error. Calibrate IMU.
+msg_fpv_tip_imu_heating===Aircraft Warming up
+msg_fpv_tip_cant_takeoff===Cannot take off
+msg_fpv_tip_cant_takeoff_novice===Cannot take off (No GPS)
+msg_fpv_tip_serious_low_voltage_landing===Critically Low Voltage. Aircraft is landing.
+msg_fpv_tip_serious_low_voltage===Critically Low Voltage.
+msg_fpv_tip_serious_low_power_landing===Critically Low Battery. Aircraft is landing.
+msg_fpv_tip_serious_low_power===Critically Low Battery.
+msg_fpv_tip_smart_low_power_landing===Low Battery Warning. Aircraft is landing.
+msg_fpv_tip_smart_low_power===Low Battery Warning.
+msg_fpv_tip_not_enough_force===Max Motor Speed Reached
+msg_fpv_tip_firmware_no_match===Firmware Update Required.
+msg_fpv_tip_gohome_failed===Failed to return home. Aircraft is hovering.
+msg_fpv_tip_failsafe_gohome===Remote Controller Signal Lost.Aircraft Returning Home
+msg_fpv_tip_failsafe===Remote Controller Signal Lost
+msg_fpv_tip_low_power_gohome===Low Voltage Warning. Aircraft Returning Home.
+msg_fpv_tip_low_power===Low Voltage Warning.
+msg_fpv_tip_low_rc_power===Remote Controller Low Battery
+msg_fpv_tip_low_rc_signal===Weak Remote Controller Signal. Adjust antenna.
+msg_fpv_tip_low_radio_signal===Weak Image Transmission Signal. Adjust antenna.
+msg_fpv_tip_gimbal_stuck===Gimbal Motor Overloaded
+msg_fpv_tip_non_gps===Ready to Go (Vision Positioning)
+msg_fpv_tip_atti_state===Cannot position. Fly with caution. (Atti)
+msg_fpv_tip_chlstatus_poor===Strong Signal Interference
+msg_fpv_tip_gohome===Returning Home in Safe
+msg_fpv_tip_normal===Ready to Go(GPS)
+msg_fpv_tip_normal_in_the_air===In Flight (GPS)
+msg_fpv_tip_non_gps_in_the_air===In Flight (Vision Positioning)
+msg_fpv_tip_non_gps_nonvision===Ready to Go
+msg_fpv_tip_non_gps_in_the_air_nonvision===In Flight
+msg_fpv_tip_atti_state_in_the_air===Cannot Position (Atti)
+msg_fpv_tip_back_vision_cali===Rear Vision Sensor Calibration Error
+msg_fpv_tip_cant_takeoff_locked===Device Locked
+msg_fpv_tip_rc_signal_disturb===Strong Interference at Aircraft
+msg_fpv_tip_radio_signal_disturb===Strong Interference at Remote Controller
+msg_fpv_tip_bad_channel_quality===Poor Radio Channel Quality
+msg_fpv_tip_gale_warning===Wind too strong. Fly with caution.
+msg_fpv_tip_gimbal_startup_block_detail===Gimbal Obstructed
+msg_fpv_tip_gimbal_wait_restart_detail===Gimbal Motor Overloaded. Check gimbal clamp has been removed.
+msg_fpv_tip_gimbal_vibration_detail===Gimbal is shaking abnormally
+msg_fpv_tip_touchpad_locked===Touchpad Locked. Swipe forward with two fingers to unlock.
+msg_fpv_tip_sdr_env_strong_interference===Strong Wireless Interference. Fly with caution
+msg_fpv_tip_sdr_env_burst_interference_glass===Strong Electromagnet Interference at DJI Goggles
+msg_fpv_tip_sdr_env_burst_interference_uav===Strong Electromagnet Interference at Aircraft
+msg_fpv_tip_sdr_env_weak_signal===Weak Signal. Avoid blocking antennas and adjust antenna positioning.
+msg_fpv_tip_sdr_env_custom_channel_strong_interference===Strong Interference at Custom Channel
+msg_fpv_tip_sdr_env_uav_reboot===Aircraft Wireless Communication Restarted
+msg_fpv_tip_sdr_env_rc_glass_too_far===Avoid excessively large distances between the DJI Goggles and the remote controller, or obstructions between remote controller and DJI Goggles.
+msg_fpv_tip_sdr_env_adjust===Avoid blocking antennas and adjust antenna positioning.
+msg_fpv_popup_glass_without_sdcard===DJI Goggles SD card not inserted
+msg_fpv_popup_get_remote_list_failed===Failed to get remote file list.
+msg_fpv_popup_remote_file_downloaded===Remote File Downloaded
+msg_fpv_popup_remote_file_download_error===Failed to download remote file.
+msg_fpv_popup_remote_file_cannot_download_video===Cannot download this video.
+msg_fpv_popup_remote_file_cannot_download===Only JPEG photos and 1080p or lower videos will be downloaded.
+msg_fpv_popup_local_file_cannot_play===Only 1080p or lower videos will be played back.
+msg_fpv_popup_no_item_founded===File List Empty
+msg_fpv_popup_remote_file_delete_failed===Failed to delete remote files.
+msg_fpv_popup_local_file_delete_failed===Failed to delete local files.
+msg_fpv_popup_auto_takeoff_failed===Auto Takeoff Failed
+msg_fpv_popup_auto_landing_failed===Auto Landing Failed
+msg_fpv_popup_auto_gohome_failed===RTH Failed
+msg_fpv_popup_play_local_video_failed===Failed to play local videos
+msg_fpv_popup_play_remote_video_failed===Failed to play remote videos
+msg_fpv_popup_camera_focus_failed===Failed to focus
+msg_fpv_popup_visual_track_start_failed===Failed to start ActiveTrack
+msg_fpv_popup_visual_track_cancel_failed===Failed to cancel ActiveTrack
+msg_fpv_popup_visual_track_cmd_failed===Failed to send ActiveTrack command
+msg_fpv_popup_visual_track_exception_shake===Subject too unstable to track
+msg_fpv_popup_visual_track_exception_lowdetect===Confirm the subject
+msg_fpv_popup_visual_track_exception_toohigh===Subject too High
+msg_fpv_popup_visual_track_exception_obstacle===Obstacle on Flight Path
+msg_fpv_popup_visual_track_exception_gimbal_pitchlow===Gimbal Attitude too Low
+msg_fpv_popup_visual_track_exception_too_far===Subject too Far
+msg_fpv_popup_visual_track_exception_too_close===Subject too Close
+msg_fpv_popup_visual_track_exception_drone_toohigh===Aircraft too High
+msg_fpv_popup_visual_track_exception_drone_toolow===Aircraft too Low
+msg_fpv_popup_visual_track_exception_toosmall===Subject too Small. Get close and retry.
+msg_fpv_popup_visual_track_exception_toolarge===Subject too Large. Get farther and retry.
+msg_fpv_popup_visual_track_exception_nodetect===Cannot identify subject
+msg_fpv_popup_visual_track_exception_radar_fail===Forward Obstacle Sensing not Responding
+msg_fpv_popup_visual_track_exception_title===Failed to track subject
+msg_fpv_popup_visual_track_exception_exit_default===ActiveTrack Ended
+msg_fpv_popup_visual_track_exception_searching===Subject Lost. Searching...
+msg_fpv_popup_visual_track_exception_timeout===Cannot find subject again
+msg_fpv_popup_visual_track_exception_nofusion===Flight Speed Error
+msg_fpv_popup_visual_track_exception_nonimage===Internal Exception (03)
+msg_fpv_popup_visual_track_exception_lowfps===Internal Exception (04)
+msg_fpv_popup_visual_track_exception_rc_halt===ActiveTrack Paused
+msg_fpv_popup_visual_track_exception_ground===Retry after takeoff
+msg_fpv_popup_visual_track_exception_over_exposure===Ambient Light too Strong
+msg_fpv_popup_visual_track_exception_under_exposure===Ambient Light too Weak
+msg_fpv_popup_visual_track_camera_setting_tip===Camera parameters have been adjusted according to recommended settings.
+msg_fpv_popup_visual_point_fail_title===Failed to start TapFly
+msg_fpv_popup_visual_point_exit_default===TapFly Flight Ended
+msg_fpv_popup_visual_point_outofrange===Aircraft is too low for TapFly Mode
+msg_fpv_popup_visual_point_paused_tip===TapFly Flight Paused
+msg_fpv_popup_visual_point_non_fly_zone===Aircraft is in a restricted area.
+msg_fpv_popup_visual_point_taplimit_tip===Cannot fly in that direction
+msg_fpv_popup_visual_tapfly_cancel_failed===Failed to cancel TapFly
+msg_fpv_popup_start_fixed_wing_failed===Failed to start Fixed-Wing mode
+msg_fpv_popup_stop_fixed_wing_failed===Failed to cancel Fixed-Wing mode
+msg_fpv_popup_smart_common_exception_ground===Retry after takeoff.
+msg_fpv_popup_smart_common_fail_title===Failed to enable this mode.
+msg_fpv_popup_smart_common_exception_not_connected===Retry after connecting aircraft.
+msg_fpv_popup_smart_common_exception_sport_mode===Retry after exiting Sport Mode.
+msg_fpv_popup_smart_common_exception_portrait_mode===Retry after exiting Portrait Mode.
+msg_fpv_popup_smart_common_exception_somatic_gimbal_mode===Retry after leaving Head Tracking Gimbal Mode.
+msg_fpv_popup_smart_common_exception_somatic_flight_mode===Retry after leaving Head Tracking Flight Mode.
+msg_fpv_popup_smart_common_exception_tracking_mode===Retry after leaving Tracking Mode.
+msg_fpv_popup_smart_common_exception_tapfly_mode===Retry after leaving TapFly Mode.
+msg_fpv_popup_smart_common_exception_tripod_mode===Retry after leaving Tripod Mode.
+msg_fpv_popup_smart_common_exception_terrain_mode===Retry after leaving Terrain Follow.
+msg_fpv_popup_smart_common_exception_cinematic_mode===Retry after exiting Cinematic Mode.
+msg_fpv_popup_somatic_gimbal_enter_failed===Failed to enter Head Tracking Gimbal Mode.
+msg_fpv_popup_somatic_flight_enter_failed===Failed to enter Head Tracking Flight Mode.
+msg_fpv_popup_somatic_exception_gimbal_down===Retry after disabling Gimbal Downward.
+msg_fpv_popup_somatic_exception_no_rc_connection===Retry after connecting to remote controller.
+msg_fpv_popup_focus_enter_failed_title===Failed to enter Focusing Mode.
+msg_fpv_popup_gimbal_down_enter_failed_title===Failed to enable Gimbal Downward.
+msg_fpv_popup_camera_center_focus_title===Center Auto Focus
+msg_fpv_popup_camera_focus_exception_due_to_somatic_gimbal===Focus on any point when Head Tracking is disabled
+msg_fpv_popup_camera_focus_exception_due_to_somatic_flight===Focus on any point when Head Tracking is disabled
+msg_fpv_popup_flightaction_motor_block===Motor Stall
+msg_fpv_popup_flightaction_propeller_catapult===Motor Idling (Propeller dropped or dismounted)
+msg_fpv_popup_flightaction_warning_power_gohome===Low Battery. Returning to Home Point.
+msg_fpv_popup_flightaction_warning_power_landing===Critically Low Power. Aircraft Landing. Throttle up to reduce the speed of descent and use sticks to avoid obstacles.
+msg_fpv_popup_flightaction_smart_power_gohome===Low Battery. Aircraft returning to Home Point.
+msg_fpv_popup_flightaction_smart_power_landing===Low Battery. Aircraft in Force Landing.
+msg_fpv_popup_flightaction_low_voltage_gohome===Low voltage. Aircraft returning to Home Point. Press RTH button on the remote controller to cancel.
+msg_fpv_popup_flightaction_low_voltage_landing===Critically Low Battery. Aircraft is in Force Landing. Press RTH button on the remote controller to cancel.
+msg_fpv_popup_flightaction_serious_low_voltage_landing===Low Voltage. Aircraft Landing. Throttle up to reduce the speed of descent and use sticks to avoid obstacles.
+msg_fpv_popup_flightaction_rc_onekey_gohome===Remote Controller RTH Started
+msg_fpv_popup_flightaction_rc_assistant_takeoff===Remote Controller Assisted Takeoff Started
+msg_fpv_popup_flightaction_rc_onekey_takeoff===Remote Controller One-tap Auto Takeoff
+msg_fpv_popup_flightaction_rc_onekey_landing===Remote Controller One-tap Auto Landing
+msg_fpv_popup_flightaction_app_auto_gohome===Start RTH
+msg_fpv_popup_flightaction_app_auto_landing===Start Auto Landing.
+msg_fpv_popup_flightaction_app_auto_takeoff===Start Auto Takeoff.
+msg_fpv_popup_flightaction_outof_control_gohome===Aircraft out of control. Start RTH.
+msg_fpv_popup_flightaction_api_auto_takeoff===API Auto Takeoff
+msg_fpv_popup_flightaction_api_auto_landing===API Auto Landing
+msg_fpv_popup_flightaction_api_auto_gohome===API Auto RTH
+msg_fpv_popup_flightaction_avoid_ground_auto_landing===Ground Collision Avoidance Out. Aircraft is landing now.
+msg_fpv_popup_flightaction_airport_avoid_auto_landing===Aircraft is in a No-fly zone. Start Auto Landing.
+msg_fpv_popup_flightaction_too_close_auto_landing===Aircraft too close to Home Point. Switched to Auto Landing.
+msg_fpv_popup_flightaction_too_far_auto_landing===Aircraft too far away from Home Point. Switched to Auto Landing.
+msg_fpv_popup_distance_limit===Max Flight Distance Reached.
+msg_fpv_popup_altitude_limit===Max Flight Altitude Reached.
+msg_fpv_popup_swave_error===Ultrasonic Systems Error. Land as soon as possible.
+msg_fpv_popup_flight_mode_patti_title===Weak GPS Signal
+msg_fpv_popup_flight_mode_patti_tip===Weak GPS Signal. Aircraft is in Atti mode and will not hover. Fly with caution.
+msg_fpv_popup_sdcard_exception_title===Data Recorder Error
+msg_fpv_popup_sdcard_exception_desc===Contact DJI Support if it persists.
+msg_fpv_popup_imu_noconnection_title===Navigation Module Disconnected
+msg_fpv_popup_imu_noconnection_desc===Contact DJI Support if it persists.
+msg_fpv_popup_rc_connnect_first===Connect remote controller first.
+msg_fpv_popup_rc_calibration_title===Calibrate Remote Controller
+msg_fpv_popup_rc_calibration_desc===Complete remote controller calibration.
+msg_fpv_popup_rc_calibration_exception_title===Remote Controller Calibration Error
+msg_fpv_popup_rc_calibration_exception_desc===Calibrate remote controller
+msg_fpv_popup_rc_calibration_unfinished_title===Remote Controller Calibration Incompleted
+msg_fpv_popup_rc_calibration_unfinished_desc===Calibrate remote controller
+msg_fpv_popup_rc_calibration_exception2_title===Remote Controller Calibration Error
+msg_fpv_popup_rc_calibration_exception2_desc===Calibrate remote controller
+msg_fpv_popup_rc_calibration_exception3_title===Remote Controller Calibration Error
+msg_fpv_popup_rc_calibration_exception3_desc===Check remote controller channel mapping
+msg_fpv_popup_aircraft_type_mismatch_title===Aircraft Type not Matched
+msg_fpv_popup_aircraft_type_mismatch_desc===Check aircraft type
+msg_fpv_popup_found_unfinished_module_title===Unconfigured Module Found
+msg_fpv_popup_found_unfinished_module_desc===Contact DJI Support if this error persists.
+msg_fpv_popup_ns_exception_title===Navigation System Error
+msg_fpv_popup_ns_exception_desc===Check Redundancy Status
+msg_fpv_popup_device_topology_exception_title===Device Topology Error
+msg_fpv_popup_device_topology_exception_desc===Restart and check connection
+msg_fpv_popup_rc_calibration_exception4_title===Remote Controller Calibration Error
+msg_fpv_popup_rc_calibration_exception4_desc===Calibrate Remote Controller.
+msg_fpv_popup_software_data_invalid_title===Invalid Software Data
+msg_fpv_popup_software_data_invalid_desc===Contact DJI Support if this error persists.
+msg_fpv_popup_battery_authentication_exception_title===Battery Authentication Failed.
+msg_fpv_popup_battery_authentication_exception_desc===Contact DJI Support if this error persists.
+msg_fpv_popup_battery_num_not_enough_title===Six Batteries Required
+msg_fpv_popup_battery_num_not_enough_desc===Check
+msg_fpv_popup_battery_communication_exception_title===Battery Error
+msg_fpv_popup_battery_communication_exception_desc===Check Battery Connection
+msg_fpv_popup_battery_voltage_difference_large_title===Battery Voltage Difference too Large.
+msg_fpv_popup_battery_voltage_difference_large_desc===Check Battery Status
+msg_fpv_popup_battery_voltage_difference_very_large_title===Battery Voltage Difference too Large.
+msg_fpv_popup_battery_voltage_difference_very_large_desc===Ensure all batteries are equally charged.
+msg_fpv_popup_version_mismatch_title===Version Mismatch
+msg_fpv_popup_version_mismatch_desc===Check Firmware
+msg_fpv_popup_imu_calibration_finished_title===IMU Calibration completed.
+msg_fpv_popup_imu_calibration_finished_desc===Restart Aircraft
+msg_fpv_popup_baro_abnormal===Barometer Error. Contact DJI Support if this continues after restart.
+msg_fpv_popup_compass_abnormal===Compass Error. Contact DJI Support if this continues after restart.
+msg_fpv_popup_flash_operating===FLASH Operating
+msg_fpv_popup_gps_abnormal===GPS Error. Contact DJI Support if this continues after restart.
+msg_fpv_popup_gps_disconnect===GPS Not Connected
+msg_fpv_popup_gimbal_abnormal===Gimbal Attitude Error
+msg_fpv_popup_gimbal_abnormal_desc===Contact DJI Support if issues persist after restarting.
+msg_fpv_popup_gimbal_esc_pitch_error===Gimbal Pitch Motor Error.
+msg_fpv_popup_gimbal_esc_pitch_error_desc===Contact DJI Support if issues persist after restarting.
+msg_fpv_popup_gimbal_esc_roll_error===Gimbal Roll Motor Error.
+msg_fpv_popup_gimbal_esc_roll_error_desc===Contact DJI Support if issues persist after restarting.
+msg_fpv_popup_gimbal_esc_yaw_error===Gimbal Pan Motor Error.
+msg_fpv_popup_gimbal_esc_yaw_error_desc===Contact DJI Support if issues persist after restarting.
+msg_fpv_popup_gimbal_is_updating===Gimbal Updating
+msg_fpv_popup_gimbal_is_updating_desc===Please wait.
+msg_fpv_popup_gimbal_disorder===Gimbal Control Lost
+msg_fpv_popup_gimbal_disorder_desc===Contact DJI Support if issues persist after restarting.
+msg_fpv_popup_gimbal_pitch_shock===Vibrations Detected in Gimbal Pitch Axis.
+msg_fpv_popup_gimbal_pitch_shock_desc===Tighten camera or reduce gain value.
+msg_fpv_popup_gimbal_roll_shock===Vibrations Detected in Gimbal Roll Axis.
+msg_fpv_popup_gimbal_roll_shock_desc===Tighten camera or reduce gain value.
+msg_fpv_popup_gimbal_yaw_shock===Vibrations Detected in Gimbal Pan Axis.
+msg_fpv_popup_gimbal_yaw_shock_desc===Tighten camera or reduce gain value.
+msg_takeoff_failed_tips_compass_error===Compass Error. Calibrate before takeoff.
+msg_takeoff_failed_tips_assistant_protected===Disconnect USB cable from aircraft.
+msg_takeoff_failed_tips_distance_limit===Aircraft too far away from home point. Cannot take off.
+msg_takeoff_failed_tips_imu_need_calibration===IMU Error
+msg_takeoff_failed_tips_imu_sn_error===Contact wDJI Support to return your aircraft.
+msg_takeoff_failed_tips_imu_warning===IMU Warming Up...
+msg_takeoff_failed_tips_compass_calibrating===Complete compass calibration.
+msg_takeoff_failed_tips_atti_error===IMU Initializing. Place aircraft on a flat and level surface.
+msg_takeoff_failed_tips_novice_protected===You are in Beginner Mode. GPS signal is required for takeoff.
+msg_takeoff_failed_tips_battery_cell_error===Battery Cell Damaged. Change battery.
+msg_takeoff_failed_tips_battery_communite_error===Intelligent Battery Communication Error. Ensure your batteries are from DJI.  Contact DJI Support if issues persist after restart.
+msg_takeoff_failed_tips_seriou_low_voltage===Low Power. Replace or charge battery.
+msg_takeoff_failed_tips_seriou_low_power===Current battery lower than min starting level. Change battery.
+msg_takeoff_failed_tips_low_voltage===Voltage too Low. Cannot take off. Change battery.
+msg_takeoff_failed_tips_tempure_vol_low===Battery Temperature too low. Warm the battery to over 15℃ or change battery.
+msg_takeoff_failed_tips_smart_low_to_land===Current battery level is lower than the minimum intelligent battery level. Change battery.
+msg_takeoff_failed_tips_battery_not_ready===Intelligent Battery not Ready. Start motor later.
+msg_takeoff_failed_tips_simulator_mode===Simulator is active. Restart aircraft.
+msg_takeoff_failed_tips_pack_mode===Aircraft in Travel Mode. Exit to start aircraft.
+msg_takeoff_failed_tips_attitude_abnormal===Aircraft attitude angle too large. Place aircraft on a flat and level surface and restart. Contact DJI Support if this error persists.
+msg_takeoff_failed_tips_unactive===Activate Aircraft
+msg_takeoff_failed_tips_in_fly_limit_zone===Aircraft is in a No-Fly Zone. Cannot takeoff.
+msg_takeoff_failed_tips_bias_limit===IMU Bias too Large. Place aircraft on a flat and level surface before calibration.
+msg_takeoff_failed_tips_esc_error===ESC Status Error. Power off and restart aircraft. Contact DJI Support if the error persists.
+msg_takeoff_failed_tips_imu_initing===IMU Initializing. Place aircraft on a flat and level surface.
+msg_takeoff_failed_tips_imuing===IMU Calibrating...
+msg_takeoff_failed_tips_attiangle===Aircraft attitude angle too large. Place aircraft on a flat, level surface and restart. Contact DJI Support if this error persists.
+msg_takeoff_failed_tips_system_upgrade===Aircraft is updating…
+msg_takeoff_failed_tips_simulator_started===Simulator is active. Restart aircraft to reset.
+msg_takeoff_failed_tips_gyroscope_error===Gyroscope Stuck. Restart Aircraft. Contact DJI Support if this continues after restart.
+msg_takeoff_failed_tips_acceletor_error===Accelerometer Error. Contact DJI Support if this continues after restart.
+msg_takeoff_failed_tips_compass_failed===Compass Error. Contact DJI Support if this continues after restart.
+msg_takeoff_failed_tips_barometer_error===Barometer Error. Restart Aircraft. Contact DJI Support if this continues after restart.
+msg_takeoff_failed_tips_barometer_negative===Barometer Value is Negative. Contact DJI Support if this continues after restart.
+msg_takeoff_failed_tips_compass_big===Compass Mod Value too Large. Contact DJI Support if this persists after restart.
+msg_takeoff_failed_tips_gyroscope_bias_big===Gyroscope Bias Value too Large. Contact DJI Support if this continues after restart.
+msg_takeoff_failed_tips_acceletor_bias_big===Accelerometer Bias too Large. Contact DJI Support if this continues after restart.
+msg_takeoff_failed_tips_compass_noise_big===Compass Calibration Required. Contact DJI Support if this continues after restart.
+msg_takeoff_failed_tips_barometer_noise_big===Barometer Noise too High. Restart Aircraft. Contact DJI Support if this continues after restart.
+msg_motor_stop_reason_takeoff_exception===Takeoff Error. Check Motor and Props.
+msg_motor_stop_reason_esc_stall_near_gound===Takeoff Error. Check Motor and Props.
+msg_motor_stop_reason_esc_unbalance_on_grd===Takeoff Error. Check Motor and Props.
+msg_motor_stop_reason_esc_part_empty_on_grd===Takeoff Error. Check Motor and Props.
+msg_motor_stop_reason_engine_start_failed===Takeoff Error. Check Motor and Props.
+msg_motor_stop_reason_auto_takeoff_lanch_faile===Takeoff Error. Check IMU and Motor
+msg_motor_stop_reason_roll_over_on_grd===Aircraft is Tilting. Check for Damage
+msg_fpv_auto_go_home===s Before RTH.
+msg_fpv_auto_go_home_tips===Aircraft will Return to Home at the end of the countdown. Confirm or cancel. Aircraft will Return to Home at the end of the countdown. (This message will not be shown again after cancelling)
+msg_fpv_hdmi_light===Brightness
+msg_fpv_hdmi_volume===Volume
+msg_fpv_hdmi_zoom===Video Scale
+msg_fpv_hdmi_exit===Exit
+msg_fpv_album_photos===PHOTOS
+msg_fpv_album_videos===VIDEOS
+msg_fpv_album_local===Local Storage
+msg_fpv_album_remote===Aircraft Storage
+msg_fpv_toolset_turnon_obstacle===Enable Forward Obstacle Avoidance
+msg_fpv_toolset_control_tip1===Push 5D button on the controller left and right (Only for Mavic Pro).
+msg_fpv_toolset_control_tip2===Or swipe the touchpad forward and backward.
+msg_fpv_toolset_pbar_control_tip===Push the 5D button on the controller left and right or swipe the touchpad forward and backward.
+msg_fpv_toolset_info_product_number===Product Name
+msg_fpv_toolset_info_version_number===Firmware Version
+msg_fpv_toolset_info_kernel_version===Kernel Version
+msg_fpv_toolset_info_run_memory===RAM
+msg_fpv_toolset_info_stroage===Storage
+msg_fpv_toolset_pairing_connect_as_master===Connect as Master
+msg_fpv_toolset_pairing_connect_as_slave===Connect as Slave
+msg_fpv_toolset_pairing_connect_to_rc===Connect to remote controller
+msg_fpv_toolset_pairing_cancel===Cancel connection
+msg_fpv_toolset_turnon_power_save===Enable Auto ECO mode
+msg_fpv_toolset_somatic_lock_mode===Lock Mode
+msg_fpv_toolset_somatic_gimbal_mode===Gimbal Mode
+msg_fpv_toolset_somatic_flight_mode===Flight Mode
+msg_fpv_toolset_hdvt_sport_mode===Smooth Mode
+msg_fpv_toolset_hdvt_clear_mode===HD Mode
+msg_fpv_toolset_hdvt_keep_current===Normal Mode
+msg_fpv_toolset_hdvt_save_setting===Save settings
+msg_fpv_toolset_image_transmission===Image Transmission
+msg_fpv_toolset_avoid_obstacle===Obstacle Avoidance
+msg_fpv_toolset_somatic_mode===Motion Mode
+msg_fpv_toolset_power_save_mode===ECO Mode
+msg_fpv_toolset_liveview_format===Liveview
+msg_fpv_toolset_pairing===Linking Settings
+msg_fpv_toolset_pairing_wireless===DJI Goggles Wireless Linking
+msg_fpv_toolset_pairing_note===Wireless Linking is only used to connect the Mavic Pro
+msg_fpv_toolset_pairing_done===Linking Complete
+msg_fpv_toolset_pairing_timeout===Linking Timeout
+msg_fpv_toolset_pairing_timeout_note===Ensure aircraft or remote controller is in linking. Retry.
+msg_fpv_toolset_pairing_quick===Quick Linking
+msg_fpv_toolset_pairing_quick_info===Quick Linking is used to connect single DJI Goggles and remote controller.
+msg_fpv_toolset_pairing_quick_connect_plane===Connect DJI Goggles to aircraft
+msg_fpv_toolset_pairing_quick_connect_info===* Ensure the Mavic Pro is linked to one remote controller. \n* Press the Linking button on the Mavic Pro.
+msg_fpv_toolset_pairing_trying===Linking DJI Goggles
+msg_fpv_toolset_pairing_quick_status===Linking DJI Goggles. Keep DJI Goggles still.
+msg_fpv_toolset_pairing_advanced===Advanced Linking
+msg_fpv_toolset_pairing_advanced_info===Advanced Link is used to connect multiple DJI Goggles and remote controllers.
+msg_fpv_toolset_pairing_advanced_select===Choose the role of DJI Goggles being paired.
+msg_fpv_toolset_pairing_advanced_number===Choose one or two DJI Goggles for connection to the aircraft.
+msg_fpv_toolset_pairing_master_glasses===Primary/Remote Controller
+msg_fpv_toolset_pairing_slave_glasses===Secondary/Remote Controller
+msg_fpv_toolset_pairing_advanced_connect_info===* Mavic Pro linking in progress.
+msg_fpv_toolset_pairing_advanced_connect_plane===Connect two DJI Goggles to aircraft
+msg_fpv_toolset_pairing_advanced_connect_master===Connect Primary DJI Goggles to aircraft
+msg_fpv_toolset_pairing_advanced_ensure_master===* Ensure Primary DJI Goggles are paired
+msg_fpv_toolset_pairing_advanced_connect_slave===Connect Secondary DJI Goggles to aircraft
+msg_fpv_toolset_pairing_rc_if_or_not===Choose whether to connect a remote controller. Exit linking if not connecting.
+msg_fpv_toolset_pairing_rc_none===No Remote Controller
+msg_fpv_toolset_pairing_rc_link===Connect Remote Controller
+msg_fpv_toolset_pairing_rc_glasses===Connect DJI Goggles to Remote Controller
+msg_fpv_toolset_pairing_rc_master===Connect Primary DJI Goggles to Remote Controller
+msg_fpv_toolset_pairing_rc_slave===Connect Secondary DJI Goggles to Remote Controller
+msg_fpv_toolset_pairing_rc_info===Open the DJI GO 4 app, choose Remote Controller Settings > Linking Remote Controller.
+msg_fpv_toolset_brightness_control===Brightness Settings
+msg_fpv_toolset_volume_setting===Volume Settings
+msg_fpv_toolset_imu_correction===IMU Calibration
+msg_fpv_toolset_factory_default===Reset All
+msg_fpv_toolset_format_sdcard===Format SD Card
+msg_fpv_toolset_device_info===Device Info
+msg_fpv_toolset_factory_default_tip===Restore factory settings?\nThis will reset all DJI Goggles settings.
+msg_fpv_toolset_format_sdcard_tip===Format DJI Goggles SD card?\nThis will delete all DJI Goggles settings and files on SD card.
+msg_fpv_toolset_hdvt_no_link_tip===Confirm that DJI Goggles are connected to the aircraft.
+msg_fpv_toolset_powersave_off===Auto ECO Mode Disabled
+msg_fpv_toolset_powersave_on===Auto ECO Mode Enabled
+msg_fpv_hdvt_liveview_setting===Liveview Format Setting
+msg_fpv_hdvt_liveview_setting_sport_tip===720p60 priority with low latency.  Changing video format may stop video recording or reset camera settings.
+msg_fpv_hdvt_liveview_setting_clear_tip===1080p30 priority with high definition.  Changing video format may stop video recording or reset camera settings.
+msg_fpv_hdvt_liveview_setting_keep_tip===720P30 allows less wireless transmission bandwidth while not changing video format in recording.
+msg_fpv_tools_top_setting===Settings
+msg_fpv_tools_top_takeoff===Takeoff
+msg_fpv_tools_top_landing===RTH
+msg_fpv_tools_top_smart===Smart
+msg_fpv_tools_top_hdmi===HDMI Input
+msg_fpv_tools_top_replay===Playback
+msg_fpv_tools_takeoff_tip===Ensure takeoff safety. Aircraft will be hover when it reaches 1.2m(3.9ft) above the ground.
+msg_fpv_tools_landing_tip===Aircraft will set an RTH route and return to the home point.
+msg_fpv_tools_smart_tap_fly===TapFly
+msg_fpv_tools_smart_tracking===ActiveTrack
+msg_fpv_tools_smart_fixed_wing===Fixed-Wing
+msg_fpv_tools_smart_cinematic_mode===Cinematic Mode
+msg_fpv_tools_smart_tap_fly_desc===With the TapFly feature, users can now tap the display to fly in the designated direction without use of the remote controller.  The aircraft will automatically avoid obstacles it sees or brake and hover provided that the lighting is appropriate(<300 lux) nor too bright(> 10,000 lux).
+msg_fpv_tools_smart_tracking_desc===ActiveTrack allows you to mark and track a moving object on your screen. The aircraft will automatically avoid obstacles in its flight path. No external tracking device is required. The aircraft can automatically identify and trace bikes and other vehicles, people and animals,  and use different tracking methods for each.
+msg_fpv_tools_smart_fixed_wing_desc===Tap 'Configure Now.' The C1 button will be set to activate Fixed-Wing Mode and the C2 button to exit Fixed-Wing Mode in remote controller settings. To enter Fixed-Wing Mode, push your stick forward for three seconds. Press C1 or tap the Fixed-Wing icon on the main screen afterwards. Press C2 or tap the red cross on the screen to exit Fixed-Wing Mode. Fly with cruise control and coordinated turning.
+msg_fpv_tools_smart_cinematic_desc===In Cinematic Mode, you can shoot photos and videos more smoothly. Aircraft yaw speed will be lower and braking distance will be longer. Fly with caution.
+msg_fpv_smart_normal===Regular
+msg_fpv_smart_tracking_ensure===ActiveTrack
+msg_fpv_smart_tapfly_ensure===TapFly
+msg_fpv_smart_tapfly_except_obstacle===Obstacle in Flight Path
+msg_fpv_smart_tracking_except_radar_fail===Forward Radar Failed
+msg_fpv_rt_album_download===Download
+msg_fpv_rt_album_download_video_tip===Download this video?
+msg_fpv_rt_album_download_photo_tip===Download this photo?
+msg_fpv_rt_album_download_file_tip===Download this file?
+msg_fpv_rt_album_delete===Delete
+msg_fpv_rt_album_delete_video_tip===Delete this video?
+msg_fpv_rt_album_delete_photo_tip===Delete this photo?
+msg_fpv_rt_album_delete_file_tip===Delete this file?
+msg_fpv_hdmi_confirm_exit===Exit?
+msg_fpv_landing_tip1===Aircraft has descended to 0.3m(0.98ft) high. Continue descending?
+msg_fpv_landing_tip2===Aircraft has descended to %2.1fm(%2.1fft) high. Continue descending?
+msg_fpv_landing_tip_in2===Aircraft is hovering low. Ensure the safety below. Push the stick downward to land directly.
+msg_fpv_landing_check_title===Not suitable for landing
+msg_fpv_landing_check_not_smooth===Not suitable for landing. Fly to a better location.
+msg_fpv_change_video_standard===Set PAL/NTSC
+msg_fpv_change_video_standard_tip===Change video standard?
+msg_fpv_glass_imu_calibration_tip===Take off and place the DJI Goggles on a flat ground. Tap Confirm and it will automatically calibrate in 5 seconds.
+msg_fpv_glass_imu_calibration_result1===DJI Goggles Calibrating
+msg_fpv_glass_imu_calibration_result2===DJI Goggles Calibration Complete
+msg_fpv_glass_imu_calibration_result3===DJI Goggles Calibration Failed
+msg_fpv_glass_imu_calibration_result4===IMU Calibration In 5 Seconds
+msg_fpv_liveview_title===LIVEVIEW
+msg_fpv_shortcut_fullscreen_mode===Full Screen Mode
+msg_fpv_shortcut_somatic_flight_control===Head Tracking Flight
+msg_fpv_shortcut_somatic_gimbal_control===Head Tracking Gimbal
+msg_fpv_shortcut_portrait_landscape===Portrait/Landscape Switch
+msg_fpv_shortcut_fixed_wing_flight_mode===Fixed-Wing Mode
+msg_fpv_shortcut_terrain_follow===Terrain Follow
+msg_fpv_shortcut_tripod_mode===Tripod Mode
+msg_fpv_shortcut_reset_gimbal_flight===Reset Motion Control
+msg_fpv_gimbal_up_down===Gimbal Forward/Downward
+msg_fpv_shortcut_fullscreen_mode_desc===All flight information and menus will be hidden when Full Screen Mode is enabled. Fly with caution. \n Press Back button on DJI Goggles or C2 on remote controller to exit.
+msg_fpv_shortcut_somatic_flight_control_desc_wm220===Control aircraft flight or gimbal attitude using head movements. Look up and down to control gimbal pitch between -90° to 30°.\nTurn your head left and right to control aircraft yaw. Head tracking can be used simultaneously with the remote controller.\nSwitch to Smooth Liveview Mode for a better experience.
+msg_fpv_shortcut_somatic_gimbal_control_desc_wm220===Control gimbal attitude using head movements.  Look up and down to control gimbal pitch between -90° to 30°.\nTurn your head left and right to control gimbal yaw between -30° to 30°.\nSwitch to Smooth Liveview Mode for a better experience.
+msg_fpv_shortcut_somatic_flight_control_desc_p4===Control aircraft flight or gimbal attitude using head movements. Look up and down to control gimbal pitch between -90° to 30°.\nTurn your head left and right to control aircraft yaw. Head tracking can be used simultaneously with the remote controller.\nSwitch to Smooth Liveview Mode for a better experience.
+msg_fpv_shortcut_somatic_gimbal_control_desc_p4===Control gimbal attitude using head movements.  Look up and down to control gimbal pitch between -90° to 30°.\nTurn your head left and right to control aircraft yaw between -30° to 30°.\nSwitch to Smooth Liveview Mode for a better experience.
+msg_fpv_shortcut_somatic_flight_control_desc_p4p===Control aircraft flight or gimbal attitude using head movements. Look up and down to control gimbal pitch between -120° to 50°.\nTurn your head left and right to control aircraft yaw. Head tracking can be used simultaneously with the remote controller.\nSwitch to Smooth Liveview Mode for a better experience.
+msg_fpv_shortcut_somatic_gimbal_control_desc_p4p===Control gimbal attitude using head movements.  Look up and down to control gimbal pitch between -90° to 30°.\nTurn your head left and right to control aircraft yaw between -30° to 30°.\nSwitch to Smooth Liveview Mode for a better experience.
+msg_fpv_shortcut_somatic_flight_control_desc_i2===Control aircraft flight or gimbal attitude using head movements. Look up and down to control gimbal pitch between -90° to 30°.\nTurn your head left and right to control aircraft yaw. Head tracking can be used simultaneously with the remote controller.\nSwitch to Smooth Liveview Mode for a better experience.
+msg_fpv_shortcut_somatic_gimbal_control_desc_i2===Control gimbal attitude using head movements.  Look up and down to control gimbal pitch between -90° to 30°.\nTurn your head left and right to control aircraft yaw between -300° to 300°.\nSwitch to Smooth Liveview Mode for a better experience.
+msg_fpv_shortcut_portrait_landscape_desc===Tap to switch between Portrait and Landscape mode.  Rotate the camera by 90° to shoot in Portrait mode.
+msg_fpv_shortcut_fixed_wing_flight_mode_desc===Fly in Fixed-Wing Mode. Aircraft cannot fly left, right, or backward.
+msg_fpv_shortcut_terrain_follow_desc===Aircraft will adjust flight height automatically based on terrain.  Terrain Follow mode will be automatically disabled if the aircraft flies high.\nCondition:  Fly at low altitudes of within 1 to 13 meters over  less than 20° slopes (e.g.grasslands).
+msg_fpv_shortcut_tripod_mode_desc===After enabling Tripod mode, flight speed and control sensitivity will be reduced for fine control and more stable shooting.
+msg_fpv_shortcut_reset_gimbal_flight_desc===Gimbal will recenter after reseting Motion Control.
+msg_fpv_gimbal_up_down_desc===Tap the touchpad to quickly adjust the gimbal to face forward or perpendicular to the ground.
+msg_fpv_camera_workmode_change_title===Camera Mode Changed
+msg_fpv_camera_cap_mode_liveview_desc===Switched to capture mode. It may change livevew format.
+msg_fpv_camera_record_mode_liveview_desc===Switched to record mode. It may change livevew format.
+msg_fpv_activate_type===Activation Type
+msg_fpv_activate_use_pc===With DJI Assistant 2
+msg_fpv_activate_use_pc_tips===This activation method can be used generally.
+msg_fpv_activate_use_pc_note===Take off and connect DJI Goggles to a computer.  Activate the DJI Goggles with DJI Assistant 2.
+msg_fpv_activating===Activating...
+msg_fpv_activate_use_mobile===With mobile device
+msg_fpv_activate_use_mobile_tips===Mavic Pro connection required for this activation method.
+msg_fpv_activate_success===Activation Complete
+msg_fpv_activate_fail===Activation Failed
+msg_fpv_activate_update===For feature updates and a better experience, update the aircraft, remote controller and DJI Goggles to the latest version.
+msg_fpv_activate_enter===Start Activation
+msg_fpv_activate_use_mobile_note===Take off and activate DJI Goggles with mobile device.
+msg_fpv_update_firmware_title===Latest Version Detected
+msg_fpv_update_no_remind===Do not show again
+msg_fpv_enter_fix_wing_tip===Enter-C1
+msg_fpv_quit_fix_wing_tip===Exit-C2
+msg_fpv_near_forbid_area_title===Your aircraft is approaching a no-fly zone.
+msg_fpv_near_forbid_area_desc===Fly away with caution.
+msg_fpv_under_forbid_area_title===Your aircraft is within a no-fly zone.
+msg_fpv_under_forbid_area_desc===Fly away with caution.
+msg_fpv_in_buffer_area_title===Your aircraft is within no-fly buffer zone.
+msg_fpv_in_buffer_area_desc===Fly away with caution.
+msg_fpv_in_forbid_area_title===Your aircraft is within no-fly zone.
+msg_fpv_in_forbid_area_desc===Fly away with caution.
+msg_in_white_list_area_title===Aircraft is within whitelist zone.
+msg_in_white_list_area_desc===
+msg_in_warning_area_title===Aircraft is within warning zone.
+msg_in_warning_area_desc===Fly away with caution.
+msg_fpv_popup_smart_fixed_wing_title===Aircraft is in Fixed-Wing Mode.
+msg_fpv_popup_smart_fixed_wing_desc===Press C2 to exit.
+msg_fpv_popup_somatic_exception_not_in_sky===Try again after takeoff.
+msg_fpv_format_sdcard_success===DJI Goggles SD Card successfully formatted.
+msg_fpv_format_sdcard_fail===Failed to format DJI Goggles SD Card.
+msg_fpv_format_sdcard_not_exist===No DJI Goggles SD Card inserted.
+msg_fpv_format_sdcard_formatting===DJI Goggles SD Card formatting...
+msg_fpv_format_sdcard_unknown_err===Unknown errors occur when formatting DJI Goggles SD Card.
+msg_fpv_guide_touch_ok_content===Tap screen once to confirm.
+msg_fpv_guide_touch_updown_content===Slide up or down on touchpad to browse functions.
+msg_fpv_guide_touch_leftright_title===Tutorials
+msg_fpv_guide_touch_leftright_content===Slide left or right on the touchpad with one finger to switch functions (camera settings/photo/video).
+msg_fpv_guide_skip_tip===Skip
+msg_fpv_guide_cancel_content===Press Back button on DJI Goggles to return to previous page.
+msg_fpv_guide_shortcut_content===Slide downward with two fingers on the touchpad to show shortcut menu.\nSlide upward to hide.
+msg_fpv_guide_lock_content===Slide left with two fingers to lock the touchpad.\n Slide right with two fingers to unlock.
+msg_fpv_guide_complete===Tutorials Complete
+msg_fpv_guide_replay===*Enter Settings > Tutorials to see tutorials again.
+msg_fpv_guide_complete_text===Complete
+msg_fpv_guide_next_text===Next
+msg_fpv_guide_select_content===Slide with one finger to browse set options.
+msg_fpv_guide_ensure_content===Slide left or right on the touchpad with one finger to switch functions
+msg_fpv_guide_prev_text===Previous
+msg_fpv_toolset_guide_title===Tutorial
+msg_fpv_toolset_guide_content===Enter Tutorial?
+msg_fpv_tip_remote_disconnect===Aircraft Disconnected
+msg_battery_top_tips_exception===Battery Status Error
+msg_fpv_tip_low_voltage===Low Voltage Warning
+msg_fpv_tip_rc_megnetic_strong===Remote controller experiencing extreme electromagnetic interference. Aircraft will automatically return home and land.
+msg_fpv_tip_rc_megnetic_medium===Strong electromagnetic interference at remote controller. Use Smart RTH to land.
+msg_fpv_tip_rc_megnetic_low===Electromagnetic interference at remote controller.  Fly aircraft to another location.
+msg_check_list_gimbal_startup_block_detail===Gimbal Obstructed
+msg_check_list_gimbal_wait_restart_detail===Gimbal Motor experiencing overload. Make sure gimbal clamp is removed.
+msg_check_gimbal_vibration_detail===Gimbal is experiencing abnormal shaking.
+msg_fpv_nfz_landing_cd_title===Auto Landing in %ds.
+msg_fpv_nfz_landing_cd_content===The aircraft is in a no-fly zone and will start to descend after the countdown. Fly with caution.
+msg_fpv_nfz_landing_cd_error_popup===Aircraft will automatically descend in %ds.
+msg_fpv_tip_nfz_flying===Cannot fly in this zone. Land now.
+msg_fpv_tip_in_nfz_max_height===Height Limited Zone (GPS) - Height Limit: %dm
+msg_gs_hide===Hide
+msg_flight_forbid_red_zone_title===Flight Restrictions
+msg_flight_forbid_around_area_smart_gohome_tip===No-fly Zone detected. When approaching a No-fly Zone during flight under Smart RTH, or an Intelligent Flight Mode, your flight will be restricted. Fly with caution.
+msg_flight_forbid_not_unlock_alert_txt===Aircraft is within a No-fly Zone. Cannot takeoff.
+msg_flight_forbid_warn_edge_alert_txt===Aircraft is approaching a No-fly Zone. Fly with caution.
+msg_flight_forbid_warn_alert_txt===Aircraft is within a warning zone. Fly with caution.
+msg_fpv_popup_hdmi_not_plugged_in===HDMI Disconnected
+msg_fpv_tip_vision_ultrasonic_error===Ultrasonic Mode Error
+msg_fpv_popup_visual_fixed_wing_cancelled_title===Fixed-Wing Mode Cancelled
+msg_fpv_popup_visual_fixed_wing_not_entered===Cannot Enter Fixed-Wing Mode
+msg_fpv_popup_visual_fixed_wing_rc_gear_except_desc===Aircraft is in Attitude Mode. Cancelled Fixed-Wing Mode.
+msg_fpv_popup_visual_fixed_wing_obstacle_except_desc===Failed to avoid the obstacle in flight path. Cancelled Fixed-Wing Mode.
+msg_fpv_popup_visual_fixed_wing_collision_brake_valid_desc===Obstacle in flight path. Aircraft is braking. Cancelled Fixed-Wing Mode.
+msg_fpv_popup_visual_fixed_wing_bypass_except_title===Aircraft is flying upwards to avoid an obstacle in its flight path.
+msg_fpv_popup_visual_fixed_wing_pitch_except_title===Aircraft is decelerating.
+msg_fpv_popup_visual_fixed_wing_low_limit_title===Cannot enter Fixed-Wing Mode; aircraft is flying too low.
+msg_fpv_popup_visual_fixed_wing_hor_fly_on_bottom_title===Your aircraft is flying too close to an object below it. The aircraft will fly horizontally.
+msg_fpv_popup_visual_fixed_wing_pause_except_desc===Aircraft is hovering.
+msg_fpv_popup_visual_fixed_wing_slow_down_brake_title===Aircraft has detected an obstacle in its flight path and is braking.
+msg_fpv_popup_visual_fixed_wing_self_rotate_title===Aircraft is spinning.
+msg_fpv_popup_visual_fixed_wing_over_exposure_desc===Forward Vision Sensor image too bright. Cancelled Fixed-Wing Mode.
+msg_fpv_popup_visual_fixed_wing_under_exposure_desc===Forward Vision Sensor image too dark. Cancelled Fixed-Wing Mode.
+msg_fpv_popup_visual_fixed_wing_vision_mismatch_desc===Image difference too large in two forward cameras. Cancelled Fixed-Wing Mode.
+msg_fpv_popup_visual_fixed_wing_cali_parm_except_desc===Forward Vision Sensor Parameter Error. Cancelled Fixed-Wing Mode.
+msg_fpv_popup_visual_fixed_wing_drone_not_takeoff_desc===Aircraft not takeoff.
+msg_fpv_popup_visual_fixed_wing_user_stop_title===Tap Exit to leave Fixed-Wing Mode.
+msg_fpv_popup_visual_fixed_wing_footstool_lay_down_desc===Landing gear lowered. Cannot enter Fixed-Wing Mode.
+msg_fpv_popup_visual_fixed_wing_reach_nfz_buffer_desc===Aircraft is in a No-fly buffer zone. Cancelled Fixed-Wing Mode.
+msg_fpv_toolset_demo_video===Demo Videos
+msg_fpv_toolset_demo_video_list===Video List
+msg_fpv_toolset_pairing_prompt_title===Tip
+msg_fpv_toolset_pairing_prompt1===DJI Goggles Connected. C1 and C2 are now equal to the Function button and Back button in Goggles. Press C1 and C2 simultaneously to enter shortcut menu.
+msg_fpv_toolset_pairing_prompt2===The 5D Button in remote controller can be used as touchpad for basic operations.
+msg_fpv_toolset_somatic_sense===Head Tracking Sensitivity
+msg_fpv_toolset_powersave_tips===DJI Goggles will enter sleep mode 30 seconds after being taken off, and will automatically power off after 30 minutes.
+msg_fpv_guide_snapshot_content===Tap and hold the touchpad with two fingers for 1 second to take a screenshot. Screenshots will be saved to the DJI Goggles' local storage.
+msg_fpv_popup_screencap_success===Capture screen successful
+msg_fpv_popup_screencap_fail===Capture screen failed
+msg_fpv_popup_screencap_no_sdcard===Capture screen failed. No SD card inserted.
+msg_fpv_popup_screencap_sdcard_full===Capture screen failed due to insufficient SD card space.
+msg_fpv_popup_screencap_sdcard_except===Capture screen failed due to SD card error.
+msg_fpv_popup_flyc_gale_warning===High Wind Velocity. Fly with caution and keep the aircraft within your line of sight.
+msg_fpv_toolset_unit_imperial===Imperial
+msg_fpv_toolset_unit_metric===Metric(M/S)
+msg_fpv_toolset_unit_metric_km===Metric(KM/H)
+msg_fpv_toolset_unit_title===Units
+msg_fpv_popup_vt_format_change_prompt===The liveview format switches to %dP%d at this recording resolution.
+msg_fpv_popup_video_format_change_prompt===The video recording format switches to %s.
+msg_fpv_camera_grid_set===Grid Set
+msg_fpv_camera_grid_none===None
+msg_fpv_camera_grid_normal===Grid Lines
+msg_fpv_camera_grid_diagonal===Grid + Diagonals
+msg_fpv_toolset_ar_assist===AR Auxiliary Settings
+msg_fpv_fixed_wing_ar===Fixed-Wing Mode AR
+msg_fpv_somatic_gimbal_ar===Head Tracking Gimbal AR
+msg_fpv_somatic_flight_ar===Head Tracking Flight AR
+
