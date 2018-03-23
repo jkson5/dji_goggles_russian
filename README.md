@@ -21,4 +21,5 @@
 Затем зайти в консоль adb shell и выполнить две команды
 
 chmod 755 /data/upgrade/backup/russian.sh
+
 /data/upgrade/backup/russian.sh
