@@ -9,7 +9,7 @@
 
 Скачать master.zip этого репозитория
 
-На очки с версией прошивки 1.03.0900 необходимо получить root доступ, используя [DUMLRacer](https://github.com/CunningLogic/DUMLRacer/releases/download/v1.1.1/DUMLRacer.jar) и установить adb commandline tools на Ваш компьютер
+На очки с версией прошивки 1.03.0900 необходимо получить root доступ, используя [DUMLRacer](https://github.com/CunningLogic/DUMLRacer/releases/download/v1.1.1/DUMLRacer.jar) и установить [adb commandline tools](https://developer.android.com/studio/index.html#command-tools) на Ваш компьютер
 
 Далее зайти в консоль и выполнить команды:
 
