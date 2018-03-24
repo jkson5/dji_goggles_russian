@@ -5,7 +5,7 @@
 
 На более новых версиях файлы будут автоматически перезаписаны, т.к. очки контролируют их по контрольной сумме.
 
-***Как установить:
+***Как установить:***
 
 На очки с версией прошивки 1.03.0900 необходимо получить root доступ, используя [DUMLRacer](https://github.com/CunningLogic/DUMLRacer) и установить [adb commandline tools](https://developer.android.com/studio/index.html#command-tools) на Ваш компьютер
 
