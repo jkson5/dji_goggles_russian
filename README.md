@@ -7,9 +7,9 @@
 
 Как установить:
 
-Скачать master.zip этого репозитория
+Скачать [master.zip](https://github.com/jkson5/dji_goggles_russian/archive/master.zip) этого репозитория
 
-На очки с версией прошивки 1.03.0900 необходимо получить root доступ, используя [DUMLRacer](https://github.com/CunningLogic/DUMLRacer/releases/download/v1.1.1/DUMLRacer.jar) и установить [adb commandline tools](https://developer.android.com/studio/index.html#command-tools) на Ваш компьютер
+На очки с версией прошивки 1.03.0900 необходимо получить root доступ, используя [DUMLRacer](https://github.com/CunningLogic/DUMLRacer) и установить [adb commandline tools](https://developer.android.com/studio/index.html#command-tools) на Ваш компьютер
 
 Далее зайти в консоль и выполнить команды:
 
